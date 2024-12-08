@@ -1,0 +1,92 @@
+{
+    "training": [
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/725.nii.gz",
+                "t2/data/725.nii.gz"
+            ],
+            "label": "label/725.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/757.nii.gz",
+                "t2/data/757.nii.gz"
+            ],
+            "label": "label/757.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/689.nii.gz",
+                "t2/data/689.nii.gz"
+            ],
+            "label": "label/689.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/739.nii.gz",
+                "t2/data/739.nii.gz"
+            ],
+            "label": "label/739.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/586.nii.gz",
+                "t2/data/586.nii.gz"
+            ],
+            "label": "label/586.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/390.nii.gz",
+                "t2/data/390.nii.gz"
+            ],
+            "label": "label/390.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/27.nii.gz",
+                "t2/data/27.nii.gz"
+            ],
+            "label": "label/27.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/268.nii.gz",
+                "t2/data/268.nii.gz"
+            ],
+            "label": "label/268.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/416.nii.gz",
+                "t2/data/416.nii.gz"
+            ],
+            "label": "label/416.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/717.nii.gz",
+                "t2/data/717.nii.gz"
+            ],
+            "label": "label/717.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/435.nii.gz",
+                "t2/data/435.nii.gz"
+            ],
+            "label": "label/435.nii.gz"
+        }
+    ]
+}

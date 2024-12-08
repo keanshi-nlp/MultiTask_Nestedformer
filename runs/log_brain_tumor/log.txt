@@ -1,0 +1,155 @@
+epoch:10, metric:{'Tumor_dice': 0.017847208306193352, 'Edema_dice': 0.040515169501304626}
+epoch: 10, avg metric: 0.02918118890374899
+epoch:10, best metric:{'Tumor_dice': 0.017847208306193352, 'Edema_dice': 0.040515169501304626}
+epoch: 10, best avg metric: 0.02918118890374899
+********************
+epoch:20, metric:{'Tumor_dice': 0.035207901149988174, 'Edema_dice': 0.06120864674448967}
+epoch: 20, avg metric: 0.04820827394723892
+epoch:20, best metric:{'Tumor_dice': 0.035207901149988174, 'Edema_dice': 0.06120864674448967}
+epoch: 20, best avg metric: 0.04820827394723892
+********************
+epoch:30, metric:{'Tumor_dice': 0.05172307789325714, 'Edema_dice': 0.09083274006843567}
+epoch: 30, avg metric: 0.0712779089808464
+epoch:30, best metric:{'Tumor_dice': 0.05172307789325714, 'Edema_dice': 0.09083274006843567}
+epoch: 30, best avg metric: 0.0712779089808464
+********************
+epoch:40, metric:{'Tumor_dice': 0.057761143893003464, 'Edema_dice': 0.09860698878765106}
+epoch: 40, avg metric: 0.07818406634032726
+epoch:40, best metric:{'Tumor_dice': 0.057761143893003464, 'Edema_dice': 0.09860698878765106}
+epoch: 40, best avg metric: 0.07818406634032726
+********************
+epoch:50, metric:{'Tumor_dice': 0.11992432922124863, 'Edema_dice': 0.1798468828201294}
+epoch: 50, avg metric: 0.149885606020689
+epoch:50, best metric:{'Tumor_dice': 0.11992432922124863, 'Edema_dice': 0.1798468828201294}
+epoch: 50, best avg metric: 0.149885606020689
+********************
+epoch:60, metric:{'Tumor_dice': 0.1653575748205185, 'Edema_dice': 0.23547878861427307}
+epoch: 60, avg metric: 0.20041818171739578
+epoch:60, best metric:{'Tumor_dice': 0.1653575748205185, 'Edema_dice': 0.23547878861427307}
+epoch: 60, best avg metric: 0.20041818171739578
+********************
+epoch:70, metric:{'Tumor_dice': 0.33751043677330017, 'Edema_dice': 0.41390109062194824}
+epoch: 70, avg metric: 0.3757057636976242
+epoch:70, best metric:{'Tumor_dice': 0.33751043677330017, 'Edema_dice': 0.41390109062194824}
+epoch: 70, best avg metric: 0.3757057636976242
+********************
+epoch:80, metric:{'Tumor_dice': 0.4065903425216675, 'Edema_dice': 0.44549277424812317}
+epoch: 80, avg metric: 0.4260415583848953
+epoch:80, best metric:{'Tumor_dice': 0.4065903425216675, 'Edema_dice': 0.44549277424812317}
+epoch: 80, best avg metric: 0.4260415583848953
+********************
+epoch:90, metric:{'Tumor_dice': 0.4511106610298157, 'Edema_dice': 0.4902746379375458}
+epoch: 90, avg metric: 0.4706926494836807
+epoch:90, best metric:{'Tumor_dice': 0.4511106610298157, 'Edema_dice': 0.4902746379375458}
+epoch: 90, best avg metric: 0.4706926494836807
+********************
+epoch:100, metric:{'Tumor_dice': 0.46449407935142517, 'Edema_dice': 0.5045400857925415}
+epoch: 100, avg metric: 0.48451708257198334
+epoch:100, best metric:{'Tumor_dice': 0.46449407935142517, 'Edema_dice': 0.5045400857925415}
+epoch: 100, best avg metric: 0.48451708257198334
+********************
+epoch:110, metric:{'Tumor_dice': 0.4947701692581177, 'Edema_dice': 0.5307071208953857}
+epoch: 110, avg metric: 0.5127386450767517
+epoch:110, best metric:{'Tumor_dice': 0.4947701692581177, 'Edema_dice': 0.5307071208953857}
+epoch: 110, best avg metric: 0.5127386450767517
+********************
+epoch:120, metric:{'Tumor_dice': 0.47876623272895813, 'Edema_dice': 0.5151240825653076}
+epoch: 120, avg metric: 0.4969451576471329
+epoch:120, best metric:{'Tumor_dice': 0.4947701692581177, 'Edema_dice': 0.5307071208953857}
+epoch: 120, best avg metric: 0.5127386450767517
+********************
+epoch:130, metric:{'Tumor_dice': 0.5154029726982117, 'Edema_dice': 0.5419359803199768}
+epoch: 130, avg metric: 0.5286694765090942
+epoch:130, best metric:{'Tumor_dice': 0.5154029726982117, 'Edema_dice': 0.5419359803199768}
+epoch: 130, best avg metric: 0.5286694765090942
+********************
+epoch:140, metric:{'Tumor_dice': 0.6670063138008118, 'Edema_dice': 0.6476291418075562}
+epoch: 140, avg metric: 0.657317727804184
+epoch:140, best metric:{'Tumor_dice': 0.6670063138008118, 'Edema_dice': 0.6476291418075562}
+epoch: 140, best avg metric: 0.657317727804184
+********************
+epoch:150, metric:{'Tumor_dice': 0.6989404559135437, 'Edema_dice': 0.6857770681381226}
+epoch: 150, avg metric: 0.6923587620258331
+epoch:150, best metric:{'Tumor_dice': 0.6989404559135437, 'Edema_dice': 0.6857770681381226}
+epoch: 150, best avg metric: 0.6923587620258331
+********************
+epoch:160, metric:{'Tumor_dice': 0.6649449467658997, 'Edema_dice': 0.6655890345573425}
+epoch: 160, avg metric: 0.6652669906616211
+epoch:160, best metric:{'Tumor_dice': 0.6989404559135437, 'Edema_dice': 0.6857770681381226}
+epoch: 160, best avg metric: 0.6923587620258331
+********************
+epoch:170, metric:{'Tumor_dice': 0.7767506241798401, 'Edema_dice': 0.765295147895813}
+epoch: 170, avg metric: 0.7710228860378265
+epoch:170, best metric:{'Tumor_dice': 0.7767506241798401, 'Edema_dice': 0.765295147895813}
+epoch: 170, best avg metric: 0.7710228860378265
+********************
+epoch:180, metric:{'Tumor_dice': 0.7858466506004333, 'Edema_dice': 0.7756142616271973}
+epoch: 180, avg metric: 0.7807304561138153
+epoch:180, best metric:{'Tumor_dice': 0.7858466506004333, 'Edema_dice': 0.7756142616271973}
+epoch: 180, best avg metric: 0.7807304561138153
+********************
+epoch:190, metric:{'Tumor_dice': 0.7677186727523804, 'Edema_dice': 0.7710558176040649}
+epoch: 190, avg metric: 0.7693872451782227
+epoch:190, best metric:{'Tumor_dice': 0.7858466506004333, 'Edema_dice': 0.7756142616271973}
+epoch: 190, best avg metric: 0.7807304561138153
+********************
+epoch:200, metric:{'Tumor_dice': 0.7957316040992737, 'Edema_dice': 0.7870094180107117}
+epoch: 200, avg metric: 0.7913705110549927
+epoch:200, best metric:{'Tumor_dice': 0.7957316040992737, 'Edema_dice': 0.7870094180107117}
+epoch: 200, best avg metric: 0.7913705110549927
+********************
+epoch:210, metric:{'Tumor_dice': 0.770754337310791, 'Edema_dice': 0.7634552717208862}
+epoch: 210, avg metric: 0.7671048045158386
+epoch:210, best metric:{'Tumor_dice': 0.7957316040992737, 'Edema_dice': 0.7870094180107117}
+epoch: 210, best avg metric: 0.7913705110549927
+********************
+epoch:220, metric:{'Tumor_dice': 0.8043680787086487, 'Edema_dice': 0.792134702205658}
+epoch: 220, avg metric: 0.7982513904571533
+epoch:220, best metric:{'Tumor_dice': 0.8043680787086487, 'Edema_dice': 0.792134702205658}
+epoch: 220, best avg metric: 0.7982513904571533
+********************
+epoch:230, metric:{'Tumor_dice': 0.7991365194320679, 'Edema_dice': 0.7984309196472168}
+epoch: 230, avg metric: 0.7987837195396423
+epoch:230, best metric:{'Tumor_dice': 0.7991365194320679, 'Edema_dice': 0.7984309196472168}
+epoch: 230, best avg metric: 0.7987837195396423
+********************
+epoch:240, metric:{'Tumor_dice': 0.7948566675186157, 'Edema_dice': 0.7922466993331909}
+epoch: 240, avg metric: 0.7935516834259033
+epoch:240, best metric:{'Tumor_dice': 0.7991365194320679, 'Edema_dice': 0.7984309196472168}
+epoch: 240, best avg metric: 0.7987837195396423
+********************
+epoch:250, metric:{'Tumor_dice': 0.7973217368125916, 'Edema_dice': 0.7955988645553589}
+epoch: 250, avg metric: 0.7964603006839752
+epoch:250, best metric:{'Tumor_dice': 0.7991365194320679, 'Edema_dice': 0.7984309196472168}
+epoch: 250, best avg metric: 0.7987837195396423
+********************
+epoch:260, metric:{'Tumor_dice': 0.7925366759300232, 'Edema_dice': 0.7908657193183899}
+epoch: 260, avg metric: 0.7917011976242065
+epoch:260, best metric:{'Tumor_dice': 0.7991365194320679, 'Edema_dice': 0.7984309196472168}
+epoch: 260, best avg metric: 0.7987837195396423
+********************
+epoch:270, metric:{'Tumor_dice': 0.7994145154953003, 'Edema_dice': 0.8000416159629822}
+epoch: 270, avg metric: 0.7997280657291412
+epoch:270, best metric:{'Tumor_dice': 0.7994145154953003, 'Edema_dice': 0.8000416159629822}
+epoch: 270, best avg metric: 0.7997280657291412
+********************
+epoch:280, metric:{'Tumor_dice': 0.7970373034477234, 'Edema_dice': 0.7970774173736572}
+epoch: 280, avg metric: 0.7970573604106903
+epoch:280, best metric:{'Tumor_dice': 0.7994145154953003, 'Edema_dice': 0.8000416159629822}
+epoch: 280, best avg metric: 0.7997280657291412
+********************
+epoch:290, metric:{'Tumor_dice': 0.7962402105331421, 'Edema_dice': 0.7973604202270508}
+epoch: 290, avg metric: 0.7968003153800964
+epoch:290, best metric:{'Tumor_dice': 0.7994145154953003, 'Edema_dice': 0.8000416159629822}
+epoch: 290, best avg metric: 0.7997280657291412
+********************
+epoch:300, metric:{'Tumor_dice': 0.7960478067398071, 'Edema_dice': 0.79710853099823}
+epoch: 300, avg metric: 0.7965781688690186
+epoch:300, best metric:{'Tumor_dice': 0.7994145154953003, 'Edema_dice': 0.8000416159629822}
+epoch: 300, best avg metric: 0.7997280657291412
+********************
+epoch:1, metric:{'Tumor_dice': 0.7571576237678528, 'Edema_dice': 0.7361992001533508}
+epoch: 1, avg metric: 0.7466784119606018
+epoch:1, best metric:{'Tumor_dice': 0.7571576237678528, 'Edema_dice': 0.7361992001533508}
+epoch: 1, best avg metric: 0.7466784119606018
+********************

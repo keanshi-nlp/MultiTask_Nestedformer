@@ -1,0 +1,40 @@
+epoch:10, metric:{'TC_dice': 0.04937875643372536, 'WT_dice': 0.07453249394893646, 'ET_dice': 0.0}
+epoch: 10, avg metric: 0.04130375012755394
+epoch:10, best metric:{'TC_dice': 0.04937875643372536, 'WT_dice': 0.07453249394893646, 'ET_dice': 0.0}
+epoch: 10, best avg metric: 0.04130375012755394
+********************
+epoch:20, metric:{'TC_dice': 0.11350094527006149, 'WT_dice': 0.16170267760753632, 'ET_dice': 0.0}
+epoch: 20, avg metric: 0.09173454095919926
+epoch:20, best metric:{'TC_dice': 0.11350094527006149, 'WT_dice': 0.16170267760753632, 'ET_dice': 0.0}
+epoch: 20, best avg metric: 0.09173454095919926
+********************
+epoch:30, metric:{'TC_dice': 0.2971000373363495, 'WT_dice': 0.3349323868751526, 'ET_dice': 0.0}
+epoch: 30, avg metric: 0.21067747473716736
+epoch:30, best metric:{'TC_dice': 0.2971000373363495, 'WT_dice': 0.3349323868751526, 'ET_dice': 0.0}
+epoch: 30, best avg metric: 0.21067747473716736
+********************
+epoch:40, metric:{'TC_dice': 0.6183285713195801, 'WT_dice': 0.5472873449325562, 'ET_dice': 0.0}
+epoch: 40, avg metric: 0.3885386387507121
+epoch:40, best metric:{'TC_dice': 0.6183285713195801, 'WT_dice': 0.5472873449325562, 'ET_dice': 0.0}
+epoch: 40, best avg metric: 0.3885386387507121
+********************
+epoch:50, metric:{'TC_dice': 0.7129659652709961, 'WT_dice': 0.6970794200897217, 'ET_dice': 0.0}
+epoch: 50, avg metric: 0.4700151284535726
+epoch:50, best metric:{'TC_dice': 0.7129659652709961, 'WT_dice': 0.6970794200897217, 'ET_dice': 0.0}
+epoch: 50, best avg metric: 0.4700151284535726
+********************
+epoch:60, metric:{'TC_dice': 0.7328668236732483, 'WT_dice': 0.7243421673774719, 'ET_dice': 0.0}
+epoch: 60, avg metric: 0.48573633035024005
+epoch:60, best metric:{'TC_dice': 0.7328668236732483, 'WT_dice': 0.7243421673774719, 'ET_dice': 0.0}
+epoch: 60, best avg metric: 0.48573633035024005
+********************
+epoch:70, metric:{'TC_dice': 0.7699503898620605, 'WT_dice': 0.765609860420227, 'ET_dice': 0.0}
+epoch: 70, avg metric: 0.5118534167607626
+epoch:70, best metric:{'TC_dice': 0.7699503898620605, 'WT_dice': 0.765609860420227, 'ET_dice': 0.0}
+epoch: 70, best avg metric: 0.5118534167607626
+********************
+epoch:80, metric:{'TC_dice': 0.781108021736145, 'WT_dice': 0.7663955092430115, 'ET_dice': 0.0}
+epoch: 80, avg metric: 0.5158345103263855
+epoch:80, best metric:{'TC_dice': 0.781108021736145, 'WT_dice': 0.7663955092430115, 'ET_dice': 0.0}
+epoch: 80, best avg metric: 0.5158345103263855
+********************

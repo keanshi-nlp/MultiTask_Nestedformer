@@ -1,0 +1,6372 @@
+{
+    "training": [
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/725.nii.gz",
+                "t2/data/725.nii.gz"
+            ],
+            "label": "label/725.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/757.nii.gz",
+                "t2/data/757.nii.gz"
+            ],
+            "label": "label/757.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/689.nii.gz",
+                "t2/data/689.nii.gz"
+            ],
+            "label": "label/689.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/739.nii.gz",
+                "t2/data/739.nii.gz"
+            ],
+            "label": "label/739.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/586.nii.gz",
+                "t2/data/586.nii.gz"
+            ],
+            "label": "label/586.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/390.nii.gz",
+                "t2/data/390.nii.gz"
+            ],
+            "label": "label/390.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/27.nii.gz",
+                "t2/data/27.nii.gz"
+            ],
+            "label": "label/27.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/268.nii.gz",
+                "t2/data/268.nii.gz"
+            ],
+            "label": "label/268.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/416.nii.gz",
+                "t2/data/416.nii.gz"
+            ],
+            "label": "label/416.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/717.nii.gz",
+                "t2/data/717.nii.gz"
+            ],
+            "label": "label/717.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/435.nii.gz",
+                "t2/data/435.nii.gz"
+            ],
+            "label": "label/435.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/441.nii.gz",
+                "t2/data/441.nii.gz"
+            ],
+            "label": "label/441.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/70.nii.gz",
+                "t2/data/70.nii.gz"
+            ],
+            "label": "label/70.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/8.nii.gz",
+                "t2/data/8.nii.gz"
+            ],
+            "label": "label/8.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/74.nii.gz",
+                "t2/data/74.nii.gz"
+            ],
+            "label": "label/74.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/701.nii.gz",
+                "t2/data/701.nii.gz"
+            ],
+            "label": "label/701.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/15.nii.gz",
+                "t2/data/15.nii.gz"
+            ],
+            "label": "label/15.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/653.nii.gz",
+                "t2/data/653.nii.gz"
+            ],
+            "label": "label/653.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/67.nii.gz",
+                "t2/data/67.nii.gz"
+            ],
+            "label": "label/67.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/352.nii.gz",
+                "t2/data/352.nii.gz"
+            ],
+            "label": "label/352.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/727.nii.gz",
+                "t2/data/727.nii.gz"
+            ],
+            "label": "label/727.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/315.nii.gz",
+                "t2/data/315.nii.gz"
+            ],
+            "label": "label/315.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/732.nii.gz",
+                "t2/data/732.nii.gz"
+            ],
+            "label": "label/732.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/346.nii.gz",
+                "t2/data/346.nii.gz"
+            ],
+            "label": "label/346.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/213.nii.gz",
+                "t2/data/213.nii.gz"
+            ],
+            "label": "label/213.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/708.nii.gz",
+                "t2/data/708.nii.gz"
+            ],
+            "label": "label/708.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/263.nii.gz",
+                "t2/data/263.nii.gz"
+            ],
+            "label": "label/263.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/289.nii.gz",
+                "t2/data/289.nii.gz"
+            ],
+            "label": "label/289.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/730.nii.gz",
+                "t2/data/730.nii.gz"
+            ],
+            "label": "label/730.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/53.nii.gz",
+                "t2/data/53.nii.gz"
+            ],
+            "label": "label/53.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/715.nii.gz",
+                "t2/data/715.nii.gz"
+            ],
+            "label": "label/715.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/423.nii.gz",
+                "t2/data/423.nii.gz"
+            ],
+            "label": "label/423.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/14.nii.gz",
+                "t2/data/14.nii.gz"
+            ],
+            "label": "label/14.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/355.nii.gz",
+                "t2/data/355.nii.gz"
+            ],
+            "label": "label/355.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/386.nii.gz",
+                "t2/data/386.nii.gz"
+            ],
+            "label": "label/386.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/645.nii.gz",
+                "t2/data/645.nii.gz"
+            ],
+            "label": "label/645.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/163.nii.gz",
+                "t2/data/163.nii.gz"
+            ],
+            "label": "label/163.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/789.nii.gz",
+                "t2/data/789.nii.gz"
+            ],
+            "label": "label/789.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/642.nii.gz",
+                "t2/data/642.nii.gz"
+            ],
+            "label": "label/642.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/100.nii.gz",
+                "t2/data/100.nii.gz"
+            ],
+            "label": "label/100.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/302.nii.gz",
+                "t2/data/302.nii.gz"
+            ],
+            "label": "label/302.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/66.nii.gz",
+                "t2/data/66.nii.gz"
+            ],
+            "label": "label/66.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/43.nii.gz",
+                "t2/data/43.nii.gz"
+            ],
+            "label": "label/43.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/579.nii.gz",
+                "t2/data/579.nii.gz"
+            ],
+            "label": "label/579.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/359.nii.gz",
+                "t2/data/359.nii.gz"
+            ],
+            "label": "label/359.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/197.nii.gz",
+                "t2/data/197.nii.gz"
+            ],
+            "label": "label/197.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/364.nii.gz",
+                "t2/data/364.nii.gz"
+            ],
+            "label": "label/364.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/226.nii.gz",
+                "t2/data/226.nii.gz"
+            ],
+            "label": "label/226.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/750.nii.gz",
+                "t2/data/750.nii.gz"
+            ],
+            "label": "label/750.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/626.nii.gz",
+                "t2/data/626.nii.gz"
+            ],
+            "label": "label/626.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/3.nii.gz",
+                "t2/data/3.nii.gz"
+            ],
+            "label": "label/3.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/282.nii.gz",
+                "t2/data/282.nii.gz"
+            ],
+            "label": "label/282.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/501.nii.gz",
+                "t2/data/501.nii.gz"
+            ],
+            "label": "label/501.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/280.nii.gz",
+                "t2/data/280.nii.gz"
+            ],
+            "label": "label/280.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/367.nii.gz",
+                "t2/data/367.nii.gz"
+            ],
+            "label": "label/367.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/98.nii.gz",
+                "t2/data/98.nii.gz"
+            ],
+            "label": "label/98.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/557.nii.gz",
+                "t2/data/557.nii.gz"
+            ],
+            "label": "label/557.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/703.nii.gz",
+                "t2/data/703.nii.gz"
+            ],
+            "label": "label/703.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/625.nii.gz",
+                "t2/data/625.nii.gz"
+            ],
+            "label": "label/625.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/188.nii.gz",
+                "t2/data/188.nii.gz"
+            ],
+            "label": "label/188.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/56.nii.gz",
+                "t2/data/56.nii.gz"
+            ],
+            "label": "label/56.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/650.nii.gz",
+                "t2/data/650.nii.gz"
+            ],
+            "label": "label/650.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/607.nii.gz",
+                "t2/data/607.nii.gz"
+            ],
+            "label": "label/607.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/674.nii.gz",
+                "t2/data/674.nii.gz"
+            ],
+            "label": "label/674.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/515.nii.gz",
+                "t2/data/515.nii.gz"
+            ],
+            "label": "label/515.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/222.nii.gz",
+                "t2/data/222.nii.gz"
+            ],
+            "label": "label/222.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/146.nii.gz",
+                "t2/data/146.nii.gz"
+            ],
+            "label": "label/146.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/566.nii.gz",
+                "t2/data/566.nii.gz"
+            ],
+            "label": "label/566.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/39.nii.gz",
+                "t2/data/39.nii.gz"
+            ],
+            "label": "label/39.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/291.nii.gz",
+                "t2/data/291.nii.gz"
+            ],
+            "label": "label/291.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/90.nii.gz",
+                "t2/data/90.nii.gz"
+            ],
+            "label": "label/90.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/324.nii.gz",
+                "t2/data/324.nii.gz"
+            ],
+            "label": "label/324.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/560.nii.gz",
+                "t2/data/560.nii.gz"
+            ],
+            "label": "label/560.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/183.nii.gz",
+                "t2/data/183.nii.gz"
+            ],
+            "label": "label/183.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/584.nii.gz",
+                "t2/data/584.nii.gz"
+            ],
+            "label": "label/584.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/786.nii.gz",
+                "t2/data/786.nii.gz"
+            ],
+            "label": "label/786.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/716.nii.gz",
+                "t2/data/716.nii.gz"
+            ],
+            "label": "label/716.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/203.nii.gz",
+                "t2/data/203.nii.gz"
+            ],
+            "label": "label/203.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/52.nii.gz",
+                "t2/data/52.nii.gz"
+            ],
+            "label": "label/52.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/312.nii.gz",
+                "t2/data/312.nii.gz"
+            ],
+            "label": "label/312.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/262.nii.gz",
+                "t2/data/262.nii.gz"
+            ],
+            "label": "label/262.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/594.nii.gz",
+                "t2/data/594.nii.gz"
+            ],
+            "label": "label/594.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/340.nii.gz",
+                "t2/data/340.nii.gz"
+            ],
+            "label": "label/340.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/361.nii.gz",
+                "t2/data/361.nii.gz"
+            ],
+            "label": "label/361.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/216.nii.gz",
+                "t2/data/216.nii.gz"
+            ],
+            "label": "label/216.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/240.nii.gz",
+                "t2/data/240.nii.gz"
+            ],
+            "label": "label/240.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/354.nii.gz",
+                "t2/data/354.nii.gz"
+            ],
+            "label": "label/354.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/620.nii.gz",
+                "t2/data/620.nii.gz"
+            ],
+            "label": "label/620.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/368.nii.gz",
+                "t2/data/368.nii.gz"
+            ],
+            "label": "label/368.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/167.nii.gz",
+                "t2/data/167.nii.gz"
+            ],
+            "label": "label/167.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/749.nii.gz",
+                "t2/data/749.nii.gz"
+            ],
+            "label": "label/749.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/622.nii.gz",
+                "t2/data/622.nii.gz"
+            ],
+            "label": "label/622.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/419.nii.gz",
+                "t2/data/419.nii.gz"
+            ],
+            "label": "label/419.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/256.nii.gz",
+                "t2/data/256.nii.gz"
+            ],
+            "label": "label/256.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/408.nii.gz",
+                "t2/data/408.nii.gz"
+            ],
+            "label": "label/408.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/649.nii.gz",
+                "t2/data/649.nii.gz"
+            ],
+            "label": "label/649.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/238.nii.gz",
+                "t2/data/238.nii.gz"
+            ],
+            "label": "label/238.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/379.nii.gz",
+                "t2/data/379.nii.gz"
+            ],
+            "label": "label/379.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/543.nii.gz",
+                "t2/data/543.nii.gz"
+            ],
+            "label": "label/543.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/228.nii.gz",
+                "t2/data/228.nii.gz"
+            ],
+            "label": "label/228.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/467.nii.gz",
+                "t2/data/467.nii.gz"
+            ],
+            "label": "label/467.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/635.nii.gz",
+                "t2/data/635.nii.gz"
+            ],
+            "label": "label/635.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/380.nii.gz",
+                "t2/data/380.nii.gz"
+            ],
+            "label": "label/380.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/284.nii.gz",
+                "t2/data/284.nii.gz"
+            ],
+            "label": "label/284.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/217.nii.gz",
+                "t2/data/217.nii.gz"
+            ],
+            "label": "label/217.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/97.nii.gz",
+                "t2/data/97.nii.gz"
+            ],
+            "label": "label/97.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/591.nii.gz",
+                "t2/data/591.nii.gz"
+            ],
+            "label": "label/591.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/514.nii.gz",
+                "t2/data/514.nii.gz"
+            ],
+            "label": "label/514.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/71.nii.gz",
+                "t2/data/71.nii.gz"
+            ],
+            "label": "label/71.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/571.nii.gz",
+                "t2/data/571.nii.gz"
+            ],
+            "label": "label/571.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/155.nii.gz",
+                "t2/data/155.nii.gz"
+            ],
+            "label": "label/155.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/4.nii.gz",
+                "t2/data/4.nii.gz"
+            ],
+            "label": "label/4.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/453.nii.gz",
+                "t2/data/453.nii.gz"
+            ],
+            "label": "label/453.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/387.nii.gz",
+                "t2/data/387.nii.gz"
+            ],
+            "label": "label/387.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/208.nii.gz",
+                "t2/data/208.nii.gz"
+            ],
+            "label": "label/208.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/191.nii.gz",
+                "t2/data/191.nii.gz"
+            ],
+            "label": "label/191.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/124.nii.gz",
+                "t2/data/124.nii.gz"
+            ],
+            "label": "label/124.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/541.nii.gz",
+                "t2/data/541.nii.gz"
+            ],
+            "label": "label/541.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/565.nii.gz",
+                "t2/data/565.nii.gz"
+            ],
+            "label": "label/565.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/264.nii.gz",
+                "t2/data/264.nii.gz"
+            ],
+            "label": "label/264.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/295.nii.gz",
+                "t2/data/295.nii.gz"
+            ],
+            "label": "label/295.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/292.nii.gz",
+                "t2/data/292.nii.gz"
+            ],
+            "label": "label/292.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/484.nii.gz",
+                "t2/data/484.nii.gz"
+            ],
+            "label": "label/484.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/372.nii.gz",
+                "t2/data/372.nii.gz"
+            ],
+            "label": "label/372.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/344.nii.gz",
+                "t2/data/344.nii.gz"
+            ],
+            "label": "label/344.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/249.nii.gz",
+                "t2/data/249.nii.gz"
+            ],
+            "label": "label/249.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/79.nii.gz",
+                "t2/data/79.nii.gz"
+            ],
+            "label": "label/79.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/303.nii.gz",
+                "t2/data/303.nii.gz"
+            ],
+            "label": "label/303.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/77.nii.gz",
+                "t2/data/77.nii.gz"
+            ],
+            "label": "label/77.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/173.nii.gz",
+                "t2/data/173.nii.gz"
+            ],
+            "label": "label/173.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/478.nii.gz",
+                "t2/data/478.nii.gz"
+            ],
+            "label": "label/478.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/318.nii.gz",
+                "t2/data/318.nii.gz"
+            ],
+            "label": "label/318.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/602.nii.gz",
+                "t2/data/602.nii.gz"
+            ],
+            "label": "label/602.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/398.nii.gz",
+                "t2/data/398.nii.gz"
+            ],
+            "label": "label/398.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/319.nii.gz",
+                "t2/data/319.nii.gz"
+            ],
+            "label": "label/319.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/536.nii.gz",
+                "t2/data/536.nii.gz"
+            ],
+            "label": "label/536.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/40.nii.gz",
+                "t2/data/40.nii.gz"
+            ],
+            "label": "label/40.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/139.nii.gz",
+                "t2/data/139.nii.gz"
+            ],
+            "label": "label/139.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/442.nii.gz",
+                "t2/data/442.nii.gz"
+            ],
+            "label": "label/442.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/687.nii.gz",
+                "t2/data/687.nii.gz"
+            ],
+            "label": "label/687.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/483.nii.gz",
+                "t2/data/483.nii.gz"
+            ],
+            "label": "label/483.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/233.nii.gz",
+                "t2/data/233.nii.gz"
+            ],
+            "label": "label/233.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/451.nii.gz",
+                "t2/data/451.nii.gz"
+            ],
+            "label": "label/451.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/269.nii.gz",
+                "t2/data/269.nii.gz"
+            ],
+            "label": "label/269.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/581.nii.gz",
+                "t2/data/581.nii.gz"
+            ],
+            "label": "label/581.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/108.nii.gz",
+                "t2/data/108.nii.gz"
+            ],
+            "label": "label/108.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/309.nii.gz",
+                "t2/data/309.nii.gz"
+            ],
+            "label": "label/309.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/785.nii.gz",
+                "t2/data/785.nii.gz"
+            ],
+            "label": "label/785.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/671.nii.gz",
+                "t2/data/671.nii.gz"
+            ],
+            "label": "label/671.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/29.nii.gz",
+                "t2/data/29.nii.gz"
+            ],
+            "label": "label/29.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/613.nii.gz",
+                "t2/data/613.nii.gz"
+            ],
+            "label": "label/613.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/34.nii.gz",
+                "t2/data/34.nii.gz"
+            ],
+            "label": "label/34.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/366.nii.gz",
+                "t2/data/366.nii.gz"
+            ],
+            "label": "label/366.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/474.nii.gz",
+                "t2/data/474.nii.gz"
+            ],
+            "label": "label/474.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/647.nii.gz",
+                "t2/data/647.nii.gz"
+            ],
+            "label": "label/647.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/792.nii.gz",
+                "t2/data/792.nii.gz"
+            ],
+            "label": "label/792.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/17.nii.gz",
+                "t2/data/17.nii.gz"
+            ],
+            "label": "label/17.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/65.nii.gz",
+                "t2/data/65.nii.gz"
+            ],
+            "label": "label/65.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/187.nii.gz",
+                "t2/data/187.nii.gz"
+            ],
+            "label": "label/187.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/198.nii.gz",
+                "t2/data/198.nii.gz"
+            ],
+            "label": "label/198.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/636.nii.gz",
+                "t2/data/636.nii.gz"
+            ],
+            "label": "label/636.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/26.nii.gz",
+                "t2/data/26.nii.gz"
+            ],
+            "label": "label/26.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/600.nii.gz",
+                "t2/data/600.nii.gz"
+            ],
+            "label": "label/600.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/445.nii.gz",
+                "t2/data/445.nii.gz"
+            ],
+            "label": "label/445.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/23.nii.gz",
+                "t2/data/23.nii.gz"
+            ],
+            "label": "label/23.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/729.nii.gz",
+                "t2/data/729.nii.gz"
+            ],
+            "label": "label/729.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/563.nii.gz",
+                "t2/data/563.nii.gz"
+            ],
+            "label": "label/563.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/127.nii.gz",
+                "t2/data/127.nii.gz"
+            ],
+            "label": "label/127.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/326.nii.gz",
+                "t2/data/326.nii.gz"
+            ],
+            "label": "label/326.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/5.nii.gz",
+                "t2/data/5.nii.gz"
+            ],
+            "label": "label/5.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/132.nii.gz",
+                "t2/data/132.nii.gz"
+            ],
+            "label": "label/132.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/356.nii.gz",
+                "t2/data/356.nii.gz"
+            ],
+            "label": "label/356.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/205.nii.gz",
+                "t2/data/205.nii.gz"
+            ],
+            "label": "label/205.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/143.nii.gz",
+                "t2/data/143.nii.gz"
+            ],
+            "label": "label/143.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/440.nii.gz",
+                "t2/data/440.nii.gz"
+            ],
+            "label": "label/440.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/570.nii.gz",
+                "t2/data/570.nii.gz"
+            ],
+            "label": "label/570.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/466.nii.gz",
+                "t2/data/466.nii.gz"
+            ],
+            "label": "label/466.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/697.nii.gz",
+                "t2/data/697.nii.gz"
+            ],
+            "label": "label/697.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/580.nii.gz",
+                "t2/data/580.nii.gz"
+            ],
+            "label": "label/580.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/190.nii.gz",
+                "t2/data/190.nii.gz"
+            ],
+            "label": "label/190.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/192.nii.gz",
+                "t2/data/192.nii.gz"
+            ],
+            "label": "label/192.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/779.nii.gz",
+                "t2/data/779.nii.gz"
+            ],
+            "label": "label/779.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/200.nii.gz",
+                "t2/data/200.nii.gz"
+            ],
+            "label": "label/200.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/545.nii.gz",
+                "t2/data/545.nii.gz"
+            ],
+            "label": "label/545.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/51.nii.gz",
+                "t2/data/51.nii.gz"
+            ],
+            "label": "label/51.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/411.nii.gz",
+                "t2/data/411.nii.gz"
+            ],
+            "label": "label/411.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/691.nii.gz",
+                "t2/data/691.nii.gz"
+            ],
+            "label": "label/691.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/726.nii.gz",
+                "t2/data/726.nii.gz"
+            ],
+            "label": "label/726.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/744.nii.gz",
+                "t2/data/744.nii.gz"
+            ],
+            "label": "label/744.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/298.nii.gz",
+                "t2/data/298.nii.gz"
+            ],
+            "label": "label/298.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/637.nii.gz",
+                "t2/data/637.nii.gz"
+            ],
+            "label": "label/637.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/272.nii.gz",
+                "t2/data/272.nii.gz"
+            ],
+            "label": "label/272.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/235.nii.gz",
+                "t2/data/235.nii.gz"
+            ],
+            "label": "label/235.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/99.nii.gz",
+                "t2/data/99.nii.gz"
+            ],
+            "label": "label/99.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/549.nii.gz",
+                "t2/data/549.nii.gz"
+            ],
+            "label": "label/549.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/503.nii.gz",
+                "t2/data/503.nii.gz"
+            ],
+            "label": "label/503.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/113.nii.gz",
+                "t2/data/113.nii.gz"
+            ],
+            "label": "label/113.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/710.nii.gz",
+                "t2/data/710.nii.gz"
+            ],
+            "label": "label/710.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/589.nii.gz",
+                "t2/data/589.nii.gz"
+            ],
+            "label": "label/589.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/123.nii.gz",
+                "t2/data/123.nii.gz"
+            ],
+            "label": "label/123.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/469.nii.gz",
+                "t2/data/469.nii.gz"
+            ],
+            "label": "label/469.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/406.nii.gz",
+                "t2/data/406.nii.gz"
+            ],
+            "label": "label/406.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/606.nii.gz",
+                "t2/data/606.nii.gz"
+            ],
+            "label": "label/606.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/482.nii.gz",
+                "t2/data/482.nii.gz"
+            ],
+            "label": "label/482.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/175.nii.gz",
+                "t2/data/175.nii.gz"
+            ],
+            "label": "label/175.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/339.nii.gz",
+                "t2/data/339.nii.gz"
+            ],
+            "label": "label/339.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/59.nii.gz",
+                "t2/data/59.nii.gz"
+            ],
+            "label": "label/59.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/761.nii.gz",
+                "t2/data/761.nii.gz"
+            ],
+            "label": "label/761.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/134.nii.gz",
+                "t2/data/134.nii.gz"
+            ],
+            "label": "label/134.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/378.nii.gz",
+                "t2/data/378.nii.gz"
+            ],
+            "label": "label/378.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/758.nii.gz",
+                "t2/data/758.nii.gz"
+            ],
+            "label": "label/758.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/182.nii.gz",
+                "t2/data/182.nii.gz"
+            ],
+            "label": "label/182.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/335.nii.gz",
+                "t2/data/335.nii.gz"
+            ],
+            "label": "label/335.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/178.nii.gz",
+                "t2/data/178.nii.gz"
+            ],
+            "label": "label/178.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/759.nii.gz",
+                "t2/data/759.nii.gz"
+            ],
+            "label": "label/759.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/628.nii.gz",
+                "t2/data/628.nii.gz"
+            ],
+            "label": "label/628.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/468.nii.gz",
+                "t2/data/468.nii.gz"
+            ],
+            "label": "label/468.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/456.nii.gz",
+                "t2/data/456.nii.gz"
+            ],
+            "label": "label/456.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/250.nii.gz",
+                "t2/data/250.nii.gz"
+            ],
+            "label": "label/250.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/736.nii.gz",
+                "t2/data/736.nii.gz"
+            ],
+            "label": "label/736.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/407.nii.gz",
+                "t2/data/407.nii.gz"
+            ],
+            "label": "label/407.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/131.nii.gz",
+                "t2/data/131.nii.gz"
+            ],
+            "label": "label/131.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/2.nii.gz",
+                "t2/data/2.nii.gz"
+            ],
+            "label": "label/2.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/261.nii.gz",
+                "t2/data/261.nii.gz"
+            ],
+            "label": "label/261.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/45.nii.gz",
+                "t2/data/45.nii.gz"
+            ],
+            "label": "label/45.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/552.nii.gz",
+                "t2/data/552.nii.gz"
+            ],
+            "label": "label/552.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/550.nii.gz",
+                "t2/data/550.nii.gz"
+            ],
+            "label": "label/550.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/770.nii.gz",
+                "t2/data/770.nii.gz"
+            ],
+            "label": "label/770.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/504.nii.gz",
+                "t2/data/504.nii.gz"
+            ],
+            "label": "label/504.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/532.nii.gz",
+                "t2/data/532.nii.gz"
+            ],
+            "label": "label/532.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/780.nii.gz",
+                "t2/data/780.nii.gz"
+            ],
+            "label": "label/780.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/165.nii.gz",
+                "t2/data/165.nii.gz"
+            ],
+            "label": "label/165.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/47.nii.gz",
+                "t2/data/47.nii.gz"
+            ],
+            "label": "label/47.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/685.nii.gz",
+                "t2/data/685.nii.gz"
+            ],
+            "label": "label/685.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/546.nii.gz",
+                "t2/data/546.nii.gz"
+            ],
+            "label": "label/546.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/728.nii.gz",
+                "t2/data/728.nii.gz"
+            ],
+            "label": "label/728.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/530.nii.gz",
+                "t2/data/530.nii.gz"
+            ],
+            "label": "label/530.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/432.nii.gz",
+                "t2/data/432.nii.gz"
+            ],
+            "label": "label/432.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/675.nii.gz",
+                "t2/data/675.nii.gz"
+            ],
+            "label": "label/675.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/48.nii.gz",
+                "t2/data/48.nii.gz"
+            ],
+            "label": "label/48.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/500.nii.gz",
+                "t2/data/500.nii.gz"
+            ],
+            "label": "label/500.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/162.nii.gz",
+                "t2/data/162.nii.gz"
+            ],
+            "label": "label/162.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/656.nii.gz",
+                "t2/data/656.nii.gz"
+            ],
+            "label": "label/656.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/317.nii.gz",
+                "t2/data/317.nii.gz"
+            ],
+            "label": "label/317.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/694.nii.gz",
+                "t2/data/694.nii.gz"
+            ],
+            "label": "label/694.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/707.nii.gz",
+                "t2/data/707.nii.gz"
+            ],
+            "label": "label/707.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/103.nii.gz",
+                "t2/data/103.nii.gz"
+            ],
+            "label": "label/103.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/202.nii.gz",
+                "t2/data/202.nii.gz"
+            ],
+            "label": "label/202.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/748.nii.gz",
+                "t2/data/748.nii.gz"
+            ],
+            "label": "label/748.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/220.nii.gz",
+                "t2/data/220.nii.gz"
+            ],
+            "label": "label/220.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/166.nii.gz",
+                "t2/data/166.nii.gz"
+            ],
+            "label": "label/166.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/438.nii.gz",
+                "t2/data/438.nii.gz"
+            ],
+            "label": "label/438.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/214.nii.gz",
+                "t2/data/214.nii.gz"
+            ],
+            "label": "label/214.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/668.nii.gz",
+                "t2/data/668.nii.gz"
+            ],
+            "label": "label/668.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/767.nii.gz",
+                "t2/data/767.nii.gz"
+            ],
+            "label": "label/767.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/85.nii.gz",
+                "t2/data/85.nii.gz"
+            ],
+            "label": "label/85.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/718.nii.gz",
+                "t2/data/718.nii.gz"
+            ],
+            "label": "label/718.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/199.nii.gz",
+                "t2/data/199.nii.gz"
+            ],
+            "label": "label/199.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/657.nii.gz",
+                "t2/data/657.nii.gz"
+            ],
+            "label": "label/657.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/331.nii.gz",
+                "t2/data/331.nii.gz"
+            ],
+            "label": "label/331.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/705.nii.gz",
+                "t2/data/705.nii.gz"
+            ],
+            "label": "label/705.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/389.nii.gz",
+                "t2/data/389.nii.gz"
+            ],
+            "label": "label/389.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/62.nii.gz",
+                "t2/data/62.nii.gz"
+            ],
+            "label": "label/62.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/629.nii.gz",
+                "t2/data/629.nii.gz"
+            ],
+            "label": "label/629.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/122.nii.gz",
+                "t2/data/122.nii.gz"
+            ],
+            "label": "label/122.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/87.nii.gz",
+                "t2/data/87.nii.gz"
+            ],
+            "label": "label/87.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/509.nii.gz",
+                "t2/data/509.nii.gz"
+            ],
+            "label": "label/509.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/499.nii.gz",
+                "t2/data/499.nii.gz"
+            ],
+            "label": "label/499.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/24.nii.gz",
+                "t2/data/24.nii.gz"
+            ],
+            "label": "label/24.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/252.nii.gz",
+                "t2/data/252.nii.gz"
+            ],
+            "label": "label/252.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/140.nii.gz",
+                "t2/data/140.nii.gz"
+            ],
+            "label": "label/140.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/119.nii.gz",
+                "t2/data/119.nii.gz"
+            ],
+            "label": "label/119.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/640.nii.gz",
+                "t2/data/640.nii.gz"
+            ],
+            "label": "label/640.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/751.nii.gz",
+                "t2/data/751.nii.gz"
+            ],
+            "label": "label/751.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/714.nii.gz",
+                "t2/data/714.nii.gz"
+            ],
+            "label": "label/714.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/788.nii.gz",
+                "t2/data/788.nii.gz"
+            ],
+            "label": "label/788.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/385.nii.gz",
+                "t2/data/385.nii.gz"
+            ],
+            "label": "label/385.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/16.nii.gz",
+                "t2/data/16.nii.gz"
+            ],
+            "label": "label/16.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/420.nii.gz",
+                "t2/data/420.nii.gz"
+            ],
+            "label": "label/420.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/112.nii.gz",
+                "t2/data/112.nii.gz"
+            ],
+            "label": "label/112.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/427.nii.gz",
+                "t2/data/427.nii.gz"
+            ],
+            "label": "label/427.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/392.nii.gz",
+                "t2/data/392.nii.gz"
+            ],
+            "label": "label/392.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/64.nii.gz",
+                "t2/data/64.nii.gz"
+            ],
+            "label": "label/64.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/742.nii.gz",
+                "t2/data/742.nii.gz"
+            ],
+            "label": "label/742.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/450.nii.gz",
+                "t2/data/450.nii.gz"
+            ],
+            "label": "label/450.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/73.nii.gz",
+                "t2/data/73.nii.gz"
+            ],
+            "label": "label/73.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/721.nii.gz",
+                "t2/data/721.nii.gz"
+            ],
+            "label": "label/721.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/784.nii.gz",
+                "t2/data/784.nii.gz"
+            ],
+            "label": "label/784.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/36.nii.gz",
+                "t2/data/36.nii.gz"
+            ],
+            "label": "label/36.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/772.nii.gz",
+                "t2/data/772.nii.gz"
+            ],
+            "label": "label/772.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/244.nii.gz",
+                "t2/data/244.nii.gz"
+            ],
+            "label": "label/244.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/538.nii.gz",
+                "t2/data/538.nii.gz"
+            ],
+            "label": "label/538.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/583.nii.gz",
+                "t2/data/583.nii.gz"
+            ],
+            "label": "label/583.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/150.nii.gz",
+                "t2/data/150.nii.gz"
+            ],
+            "label": "label/150.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/210.nii.gz",
+                "t2/data/210.nii.gz"
+            ],
+            "label": "label/210.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/307.nii.gz",
+                "t2/data/307.nii.gz"
+            ],
+            "label": "label/307.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/753.nii.gz",
+                "t2/data/753.nii.gz"
+            ],
+            "label": "label/753.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/472.nii.gz",
+                "t2/data/472.nii.gz"
+            ],
+            "label": "label/472.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/399.nii.gz",
+                "t2/data/399.nii.gz"
+            ],
+            "label": "label/399.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/107.nii.gz",
+                "t2/data/107.nii.gz"
+            ],
+            "label": "label/107.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/464.nii.gz",
+                "t2/data/464.nii.gz"
+            ],
+            "label": "label/464.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/236.nii.gz",
+                "t2/data/236.nii.gz"
+            ],
+            "label": "label/236.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/587.nii.gz",
+                "t2/data/587.nii.gz"
+            ],
+            "label": "label/587.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/430.nii.gz",
+                "t2/data/430.nii.gz"
+            ],
+            "label": "label/430.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/136.nii.gz",
+                "t2/data/136.nii.gz"
+            ],
+            "label": "label/136.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/688.nii.gz",
+                "t2/data/688.nii.gz"
+            ],
+            "label": "label/688.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/699.nii.gz",
+                "t2/data/699.nii.gz"
+            ],
+            "label": "label/699.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/555.nii.gz",
+                "t2/data/555.nii.gz"
+            ],
+            "label": "label/555.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/257.nii.gz",
+                "t2/data/257.nii.gz"
+            ],
+            "label": "label/257.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/405.nii.gz",
+                "t2/data/405.nii.gz"
+            ],
+            "label": "label/405.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/667.nii.gz",
+                "t2/data/667.nii.gz"
+            ],
+            "label": "label/667.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/677.nii.gz",
+                "t2/data/677.nii.gz"
+            ],
+            "label": "label/677.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/585.nii.gz",
+                "t2/data/585.nii.gz"
+            ],
+            "label": "label/585.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/449.nii.gz",
+                "t2/data/449.nii.gz"
+            ],
+            "label": "label/449.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/528.nii.gz",
+                "t2/data/528.nii.gz"
+            ],
+            "label": "label/528.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/391.nii.gz",
+                "t2/data/391.nii.gz"
+            ],
+            "label": "label/391.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/168.nii.gz",
+                "t2/data/168.nii.gz"
+            ],
+            "label": "label/168.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/756.nii.gz",
+                "t2/data/756.nii.gz"
+            ],
+            "label": "label/756.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/433.nii.gz",
+                "t2/data/433.nii.gz"
+            ],
+            "label": "label/433.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/232.nii.gz",
+                "t2/data/232.nii.gz"
+            ],
+            "label": "label/232.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/176.nii.gz",
+                "t2/data/176.nii.gz"
+            ],
+            "label": "label/176.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/338.nii.gz",
+                "t2/data/338.nii.gz"
+            ],
+            "label": "label/338.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/12.nii.gz",
+                "t2/data/12.nii.gz"
+            ],
+            "label": "label/12.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/711.nii.gz",
+                "t2/data/711.nii.gz"
+            ],
+            "label": "label/711.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/147.nii.gz",
+                "t2/data/147.nii.gz"
+            ],
+            "label": "label/147.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/621.nii.gz",
+                "t2/data/621.nii.gz"
+            ],
+            "label": "label/621.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/63.nii.gz",
+                "t2/data/63.nii.gz"
+            ],
+            "label": "label/63.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/314.nii.gz",
+                "t2/data/314.nii.gz"
+            ],
+            "label": "label/314.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/57.nii.gz",
+                "t2/data/57.nii.gz"
+            ],
+            "label": "label/57.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/481.nii.gz",
+                "t2/data/481.nii.gz"
+            ],
+            "label": "label/481.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/357.nii.gz",
+                "t2/data/357.nii.gz"
+            ],
+            "label": "label/357.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/582.nii.gz",
+                "t2/data/582.nii.gz"
+            ],
+            "label": "label/582.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/434.nii.gz",
+                "t2/data/434.nii.gz"
+            ],
+            "label": "label/434.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/605.nii.gz",
+                "t2/data/605.nii.gz"
+            ],
+            "label": "label/605.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/480.nii.gz",
+                "t2/data/480.nii.gz"
+            ],
+            "label": "label/480.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/553.nii.gz",
+                "t2/data/553.nii.gz"
+            ],
+            "label": "label/553.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/791.nii.gz",
+                "t2/data/791.nii.gz"
+            ],
+            "label": "label/791.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/531.nii.gz",
+                "t2/data/531.nii.gz"
+            ],
+            "label": "label/531.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/154.nii.gz",
+                "t2/data/154.nii.gz"
+            ],
+            "label": "label/154.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/593.nii.gz",
+                "t2/data/593.nii.gz"
+            ],
+            "label": "label/593.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/796.nii.gz",
+                "t2/data/796.nii.gz"
+            ],
+            "label": "label/796.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/270.nii.gz",
+                "t2/data/270.nii.gz"
+            ],
+            "label": "label/270.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/684.nii.gz",
+                "t2/data/684.nii.gz"
+            ],
+            "label": "label/684.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/495.nii.gz",
+                "t2/data/495.nii.gz"
+            ],
+            "label": "label/495.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/181.nii.gz",
+                "t2/data/181.nii.gz"
+            ],
+            "label": "label/181.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/400.nii.gz",
+                "t2/data/400.nii.gz"
+            ],
+            "label": "label/400.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/771.nii.gz",
+                "t2/data/771.nii.gz"
+            ],
+            "label": "label/771.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/110.nii.gz",
+                "t2/data/110.nii.gz"
+            ],
+            "label": "label/110.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/230.nii.gz",
+                "t2/data/230.nii.gz"
+            ],
+            "label": "label/230.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/519.nii.gz",
+                "t2/data/519.nii.gz"
+            ],
+            "label": "label/519.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/673.nii.gz",
+                "t2/data/673.nii.gz"
+            ],
+            "label": "label/673.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/21.nii.gz",
+                "t2/data/21.nii.gz"
+            ],
+            "label": "label/21.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/362.nii.gz",
+                "t2/data/362.nii.gz"
+            ],
+            "label": "label/362.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/120.nii.gz",
+                "t2/data/120.nii.gz"
+            ],
+            "label": "label/120.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/358.nii.gz",
+                "t2/data/358.nii.gz"
+            ],
+            "label": "label/358.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/234.nii.gz",
+                "t2/data/234.nii.gz"
+            ],
+            "label": "label/234.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/336.nii.gz",
+                "t2/data/336.nii.gz"
+            ],
+            "label": "label/336.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/221.nii.gz",
+                "t2/data/221.nii.gz"
+            ],
+            "label": "label/221.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/96.nii.gz",
+                "t2/data/96.nii.gz"
+            ],
+            "label": "label/96.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/286.nii.gz",
+                "t2/data/286.nii.gz"
+            ],
+            "label": "label/286.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/651.nii.gz",
+                "t2/data/651.nii.gz"
+            ],
+            "label": "label/651.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/351.nii.gz",
+                "t2/data/351.nii.gz"
+            ],
+            "label": "label/351.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/414.nii.gz",
+                "t2/data/414.nii.gz"
+            ],
+            "label": "label/414.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/255.nii.gz",
+                "t2/data/255.nii.gz"
+            ],
+            "label": "label/255.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/306.nii.gz",
+                "t2/data/306.nii.gz"
+            ],
+            "label": "label/306.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/490.nii.gz",
+                "t2/data/490.nii.gz"
+            ],
+            "label": "label/490.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/299.nii.gz",
+                "t2/data/299.nii.gz"
+            ],
+            "label": "label/299.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/118.nii.gz",
+                "t2/data/118.nii.gz"
+            ],
+            "label": "label/118.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/465.nii.gz",
+                "t2/data/465.nii.gz"
+            ],
+            "label": "label/465.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/78.nii.gz",
+                "t2/data/78.nii.gz"
+            ],
+            "label": "label/78.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/616.nii.gz",
+                "t2/data/616.nii.gz"
+            ],
+            "label": "label/616.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/576.nii.gz",
+                "t2/data/576.nii.gz"
+            ],
+            "label": "label/576.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/42.nii.gz",
+                "t2/data/42.nii.gz"
+            ],
+            "label": "label/42.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/491.nii.gz",
+                "t2/data/491.nii.gz"
+            ],
+            "label": "label/491.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/377.nii.gz",
+                "t2/data/377.nii.gz"
+            ],
+            "label": "label/377.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/332.nii.gz",
+                "t2/data/332.nii.gz"
+            ],
+            "label": "label/332.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/422.nii.gz",
+                "t2/data/422.nii.gz"
+            ],
+            "label": "label/422.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/512.nii.gz",
+                "t2/data/512.nii.gz"
+            ],
+            "label": "label/512.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/410.nii.gz",
+                "t2/data/410.nii.gz"
+            ],
+            "label": "label/410.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/428.nii.gz",
+                "t2/data/428.nii.gz"
+            ],
+            "label": "label/428.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/239.nii.gz",
+                "t2/data/239.nii.gz"
+            ],
+            "label": "label/239.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/421.nii.gz",
+                "t2/data/421.nii.gz"
+            ],
+            "label": "label/421.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/612.nii.gz",
+                "t2/data/612.nii.gz"
+            ],
+            "label": "label/612.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/287.nii.gz",
+                "t2/data/287.nii.gz"
+            ],
+            "label": "label/287.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/225.nii.gz",
+                "t2/data/225.nii.gz"
+            ],
+            "label": "label/225.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/713.nii.gz",
+                "t2/data/713.nii.gz"
+            ],
+            "label": "label/713.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/735.nii.gz",
+                "t2/data/735.nii.gz"
+            ],
+            "label": "label/735.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/301.nii.gz",
+                "t2/data/301.nii.gz"
+            ],
+            "label": "label/301.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/128.nii.gz",
+                "t2/data/128.nii.gz"
+            ],
+            "label": "label/128.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/752.nii.gz",
+                "t2/data/752.nii.gz"
+            ],
+            "label": "label/752.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/9.nii.gz",
+                "t2/data/9.nii.gz"
+            ],
+            "label": "label/9.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/787.nii.gz",
+                "t2/data/787.nii.gz"
+            ],
+            "label": "label/787.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/58.nii.gz",
+                "t2/data/58.nii.gz"
+            ],
+            "label": "label/58.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/348.nii.gz",
+                "t2/data/348.nii.gz"
+            ],
+            "label": "label/348.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/599.nii.gz",
+                "t2/data/599.nii.gz"
+            ],
+            "label": "label/599.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/142.nii.gz",
+                "t2/data/142.nii.gz"
+            ],
+            "label": "label/142.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/794.nii.gz",
+                "t2/data/794.nii.gz"
+            ],
+            "label": "label/794.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/69.nii.gz",
+                "t2/data/69.nii.gz"
+            ],
+            "label": "label/69.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/782.nii.gz",
+                "t2/data/782.nii.gz"
+            ],
+            "label": "label/782.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/144.nii.gz",
+                "t2/data/144.nii.gz"
+            ],
+            "label": "label/144.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/540.nii.gz",
+                "t2/data/540.nii.gz"
+            ],
+            "label": "label/540.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/623.nii.gz",
+                "t2/data/623.nii.gz"
+            ],
+            "label": "label/623.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/760.nii.gz",
+                "t2/data/760.nii.gz"
+            ],
+            "label": "label/760.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/397.nii.gz",
+                "t2/data/397.nii.gz"
+            ],
+            "label": "label/397.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/260.nii.gz",
+                "t2/data/260.nii.gz"
+            ],
+            "label": "label/260.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/313.nii.gz",
+                "t2/data/313.nii.gz"
+            ],
+            "label": "label/313.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/237.nii.gz",
+                "t2/data/237.nii.gz"
+            ],
+            "label": "label/237.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/569.nii.gz",
+                "t2/data/569.nii.gz"
+            ],
+            "label": "label/569.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/567.nii.gz",
+                "t2/data/567.nii.gz"
+            ],
+            "label": "label/567.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/323.nii.gz",
+                "t2/data/323.nii.gz"
+            ],
+            "label": "label/323.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/25.nii.gz",
+                "t2/data/25.nii.gz"
+            ],
+            "label": "label/25.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/161.nii.gz",
+                "t2/data/161.nii.gz"
+            ],
+            "label": "label/161.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/644.nii.gz",
+                "t2/data/644.nii.gz"
+            ],
+            "label": "label/644.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/661.nii.gz",
+                "t2/data/661.nii.gz"
+            ],
+            "label": "label/661.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/568.nii.gz",
+                "t2/data/568.nii.gz"
+            ],
+            "label": "label/568.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/507.nii.gz",
+                "t2/data/507.nii.gz"
+            ],
+            "label": "label/507.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/388.nii.gz",
+                "t2/data/388.nii.gz"
+            ],
+            "label": "label/388.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/683.nii.gz",
+                "t2/data/683.nii.gz"
+            ],
+            "label": "label/683.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/577.nii.gz",
+                "t2/data/577.nii.gz"
+            ],
+            "label": "label/577.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/337.nii.gz",
+                "t2/data/337.nii.gz"
+            ],
+            "label": "label/337.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/741.nii.gz",
+                "t2/data/741.nii.gz"
+            ],
+            "label": "label/741.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/381.nii.gz",
+                "t2/data/381.nii.gz"
+            ],
+            "label": "label/381.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/311.nii.gz",
+                "t2/data/311.nii.gz"
+            ],
+            "label": "label/311.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/556.nii.gz",
+                "t2/data/556.nii.gz"
+            ],
+            "label": "label/556.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/271.nii.gz",
+                "t2/data/271.nii.gz"
+            ],
+            "label": "label/271.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/424.nii.gz",
+                "t2/data/424.nii.gz"
+            ],
+            "label": "label/424.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/436.nii.gz",
+                "t2/data/436.nii.gz"
+            ],
+            "label": "label/436.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/135.nii.gz",
+                "t2/data/135.nii.gz"
+            ],
+            "label": "label/135.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/700.nii.gz",
+                "t2/data/700.nii.gz"
+            ],
+            "label": "label/700.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/158.nii.gz",
+                "t2/data/158.nii.gz"
+            ],
+            "label": "label/158.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/171.nii.gz",
+                "t2/data/171.nii.gz"
+            ],
+            "label": "label/171.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/455.nii.gz",
+                "t2/data/455.nii.gz"
+            ],
+            "label": "label/455.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/537.nii.gz",
+                "t2/data/537.nii.gz"
+            ],
+            "label": "label/537.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/720.nii.gz",
+                "t2/data/720.nii.gz"
+            ],
+            "label": "label/720.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/686.nii.gz",
+                "t2/data/686.nii.gz"
+            ],
+            "label": "label/686.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/157.nii.gz",
+                "t2/data/157.nii.gz"
+            ],
+            "label": "label/157.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/790.nii.gz",
+                "t2/data/790.nii.gz"
+            ],
+            "label": "label/790.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/722.nii.gz",
+                "t2/data/722.nii.gz"
+            ],
+            "label": "label/722.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/634.nii.gz",
+                "t2/data/634.nii.gz"
+            ],
+            "label": "label/634.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/382.nii.gz",
+                "t2/data/382.nii.gz"
+            ],
+            "label": "label/382.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/488.nii.gz",
+                "t2/data/488.nii.gz"
+            ],
+            "label": "label/488.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/212.nii.gz",
+                "t2/data/212.nii.gz"
+            ],
+            "label": "label/212.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/795.nii.gz",
+                "t2/data/795.nii.gz"
+            ],
+            "label": "label/795.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/444.nii.gz",
+                "t2/data/444.nii.gz"
+            ],
+            "label": "label/444.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/189.nii.gz",
+                "t2/data/189.nii.gz"
+            ],
+            "label": "label/189.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/516.nii.gz",
+                "t2/data/516.nii.gz"
+            ],
+            "label": "label/516.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/194.nii.gz",
+                "t2/data/194.nii.gz"
+            ],
+            "label": "label/194.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/253.nii.gz",
+                "t2/data/253.nii.gz"
+            ],
+            "label": "label/253.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/350.nii.gz",
+                "t2/data/350.nii.gz"
+            ],
+            "label": "label/350.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/412.nii.gz",
+                "t2/data/412.nii.gz"
+            ],
+            "label": "label/412.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/493.nii.gz",
+                "t2/data/493.nii.gz"
+            ],
+            "label": "label/493.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/592.nii.gz",
+                "t2/data/592.nii.gz"
+            ],
+            "label": "label/592.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/476.nii.gz",
+                "t2/data/476.nii.gz"
+            ],
+            "label": "label/476.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/551.nii.gz",
+                "t2/data/551.nii.gz"
+            ],
+            "label": "label/551.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/520.nii.gz",
+                "t2/data/520.nii.gz"
+            ],
+            "label": "label/520.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/502.nii.gz",
+                "t2/data/502.nii.gz"
+            ],
+            "label": "label/502.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/245.nii.gz",
+                "t2/data/245.nii.gz"
+            ],
+            "label": "label/245.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/395.nii.gz",
+                "t2/data/395.nii.gz"
+            ],
+            "label": "label/395.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/41.nii.gz",
+                "t2/data/41.nii.gz"
+            ],
+            "label": "label/41.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/231.nii.gz",
+                "t2/data/231.nii.gz"
+            ],
+            "label": "label/231.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/363.nii.gz",
+                "t2/data/363.nii.gz"
+            ],
+            "label": "label/363.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/611.nii.gz",
+                "t2/data/611.nii.gz"
+            ],
+            "label": "label/611.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/548.nii.gz",
+                "t2/data/548.nii.gz"
+            ],
+            "label": "label/548.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/723.nii.gz",
+                "t2/data/723.nii.gz"
+            ],
+            "label": "label/723.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/334.nii.gz",
+                "t2/data/334.nii.gz"
+            ],
+            "label": "label/334.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/164.nii.gz",
+                "t2/data/164.nii.gz"
+            ],
+            "label": "label/164.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/224.nii.gz",
+                "t2/data/224.nii.gz"
+            ],
+            "label": "label/224.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/211.nii.gz",
+                "t2/data/211.nii.gz"
+            ],
+            "label": "label/211.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/80.nii.gz",
+                "t2/data/80.nii.gz"
+            ],
+            "label": "label/80.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/94.nii.gz",
+                "t2/data/94.nii.gz"
+            ],
+            "label": "label/94.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/747.nii.gz",
+                "t2/data/747.nii.gz"
+            ],
+            "label": "label/747.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/774.nii.gz",
+                "t2/data/774.nii.gz"
+            ],
+            "label": "label/774.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/325.nii.gz",
+                "t2/data/325.nii.gz"
+            ],
+            "label": "label/325.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/690.nii.gz",
+                "t2/data/690.nii.gz"
+            ],
+            "label": "label/690.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/457.nii.gz",
+                "t2/data/457.nii.gz"
+            ],
+            "label": "label/457.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/409.nii.gz",
+                "t2/data/409.nii.gz"
+            ],
+            "label": "label/409.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/148.nii.gz",
+                "t2/data/148.nii.gz"
+            ],
+            "label": "label/148.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/554.nii.gz",
+                "t2/data/554.nii.gz"
+            ],
+            "label": "label/554.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/633.nii.gz",
+                "t2/data/633.nii.gz"
+            ],
+            "label": "label/633.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/320.nii.gz",
+                "t2/data/320.nii.gz"
+            ],
+            "label": "label/320.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/258.nii.gz",
+                "t2/data/258.nii.gz"
+            ],
+            "label": "label/258.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/425.nii.gz",
+                "t2/data/425.nii.gz"
+            ],
+            "label": "label/425.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/658.nii.gz",
+                "t2/data/658.nii.gz"
+            ],
+            "label": "label/658.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/641.nii.gz",
+                "t2/data/641.nii.gz"
+            ],
+            "label": "label/641.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/153.nii.gz",
+                "t2/data/153.nii.gz"
+            ],
+            "label": "label/153.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/773.nii.gz",
+                "t2/data/773.nii.gz"
+            ],
+            "label": "label/773.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/508.nii.gz",
+                "t2/data/508.nii.gz"
+            ],
+            "label": "label/508.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/304.nii.gz",
+                "t2/data/304.nii.gz"
+            ],
+            "label": "label/304.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/706.nii.gz",
+                "t2/data/706.nii.gz"
+            ],
+            "label": "label/706.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/664.nii.gz",
+                "t2/data/664.nii.gz"
+            ],
+            "label": "label/664.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/783.nii.gz",
+                "t2/data/783.nii.gz"
+            ],
+            "label": "label/783.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/247.nii.gz",
+                "t2/data/247.nii.gz"
+            ],
+            "label": "label/247.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/639.nii.gz",
+                "t2/data/639.nii.gz"
+            ],
+            "label": "label/639.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/121.nii.gz",
+                "t2/data/121.nii.gz"
+            ],
+            "label": "label/121.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/104.nii.gz",
+                "t2/data/104.nii.gz"
+            ],
+            "label": "label/104.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/632.nii.gz",
+                "t2/data/632.nii.gz"
+            ],
+            "label": "label/632.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/327.nii.gz",
+                "t2/data/327.nii.gz"
+            ],
+            "label": "label/327.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/219.nii.gz",
+                "t2/data/219.nii.gz"
+            ],
+            "label": "label/219.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/618.nii.gz",
+                "t2/data/618.nii.gz"
+            ],
+            "label": "label/618.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/308.nii.gz",
+                "t2/data/308.nii.gz"
+            ],
+            "label": "label/308.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/662.nii.gz",
+                "t2/data/662.nii.gz"
+            ],
+            "label": "label/662.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/588.nii.gz",
+                "t2/data/588.nii.gz"
+            ],
+            "label": "label/588.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/186.nii.gz",
+                "t2/data/186.nii.gz"
+            ],
+            "label": "label/186.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/487.nii.gz",
+                "t2/data/487.nii.gz"
+            ],
+            "label": "label/487.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/415.nii.gz",
+                "t2/data/415.nii.gz"
+            ],
+            "label": "label/415.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/479.nii.gz",
+                "t2/data/479.nii.gz"
+            ],
+            "label": "label/479.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/20.nii.gz",
+                "t2/data/20.nii.gz"
+            ],
+            "label": "label/20.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/185.nii.gz",
+                "t2/data/185.nii.gz"
+            ],
+            "label": "label/185.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/266.nii.gz",
+                "t2/data/266.nii.gz"
+            ],
+            "label": "label/266.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/617.nii.gz",
+                "t2/data/617.nii.gz"
+            ],
+            "label": "label/617.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/765.nii.gz",
+                "t2/data/765.nii.gz"
+            ],
+            "label": "label/765.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/170.nii.gz",
+                "t2/data/170.nii.gz"
+            ],
+            "label": "label/170.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/145.nii.gz",
+                "t2/data/145.nii.gz"
+            ],
+            "label": "label/145.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/492.nii.gz",
+                "t2/data/492.nii.gz"
+            ],
+            "label": "label/492.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/693.nii.gz",
+                "t2/data/693.nii.gz"
+            ],
+            "label": "label/693.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/184.nii.gz",
+                "t2/data/184.nii.gz"
+            ],
+            "label": "label/184.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/574.nii.gz",
+                "t2/data/574.nii.gz"
+            ],
+            "label": "label/574.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/396.nii.gz",
+                "t2/data/396.nii.gz"
+            ],
+            "label": "label/396.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/608.nii.gz",
+                "t2/data/608.nii.gz"
+            ],
+            "label": "label/608.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/775.nii.gz",
+                "t2/data/775.nii.gz"
+            ],
+            "label": "label/775.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/177.nii.gz",
+                "t2/data/177.nii.gz"
+            ],
+            "label": "label/177.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/670.nii.gz",
+                "t2/data/670.nii.gz"
+            ],
+            "label": "label/670.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/277.nii.gz",
+                "t2/data/277.nii.gz"
+            ],
+            "label": "label/277.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/696.nii.gz",
+                "t2/data/696.nii.gz"
+            ],
+            "label": "label/696.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/207.nii.gz",
+                "t2/data/207.nii.gz"
+            ],
+            "label": "label/207.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/215.nii.gz",
+                "t2/data/215.nii.gz"
+            ],
+            "label": "label/215.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/193.nii.gz",
+                "t2/data/193.nii.gz"
+            ],
+            "label": "label/193.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/44.nii.gz",
+                "t2/data/44.nii.gz"
+            ],
+            "label": "label/44.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/655.nii.gz",
+                "t2/data/655.nii.gz"
+            ],
+            "label": "label/655.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/330.nii.gz",
+                "t2/data/330.nii.gz"
+            ],
+            "label": "label/330.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/229.nii.gz",
+                "t2/data/229.nii.gz"
+            ],
+            "label": "label/229.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/738.nii.gz",
+                "t2/data/738.nii.gz"
+            ],
+            "label": "label/738.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/290.nii.gz",
+                "t2/data/290.nii.gz"
+            ],
+            "label": "label/290.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/448.nii.gz",
+                "t2/data/448.nii.gz"
+            ],
+            "label": "label/448.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/243.nii.gz",
+                "t2/data/243.nii.gz"
+            ],
+            "label": "label/243.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/105.nii.gz",
+                "t2/data/105.nii.gz"
+            ],
+            "label": "label/105.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/223.nii.gz",
+                "t2/data/223.nii.gz"
+            ],
+            "label": "label/223.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/669.nii.gz",
+                "t2/data/669.nii.gz"
+            ],
+            "label": "label/669.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/156.nii.gz",
+                "t2/data/156.nii.gz"
+            ],
+            "label": "label/156.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/126.nii.gz",
+                "t2/data/126.nii.gz"
+            ],
+            "label": "label/126.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/95.nii.gz",
+                "t2/data/95.nii.gz"
+            ],
+            "label": "label/95.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/297.nii.gz",
+                "t2/data/297.nii.gz"
+            ],
+            "label": "label/297.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/458.nii.gz",
+                "t2/data/458.nii.gz"
+            ],
+            "label": "label/458.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/486.nii.gz",
+                "t2/data/486.nii.gz"
+            ],
+            "label": "label/486.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/654.nii.gz",
+                "t2/data/654.nii.gz"
+            ],
+            "label": "label/654.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/462.nii.gz",
+                "t2/data/462.nii.gz"
+            ],
+            "label": "label/462.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/86.nii.gz",
+                "t2/data/86.nii.gz"
+            ],
+            "label": "label/86.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/764.nii.gz",
+                "t2/data/764.nii.gz"
+            ],
+            "label": "label/764.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/733.nii.gz",
+                "t2/data/733.nii.gz"
+            ],
+            "label": "label/733.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/46.nii.gz",
+                "t2/data/46.nii.gz"
+            ],
+            "label": "label/46.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/151.nii.gz",
+                "t2/data/151.nii.gz"
+            ],
+            "label": "label/151.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/159.nii.gz",
+                "t2/data/159.nii.gz"
+            ],
+            "label": "label/159.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/373.nii.gz",
+                "t2/data/373.nii.gz"
+            ],
+            "label": "label/373.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/117.nii.gz",
+                "t2/data/117.nii.gz"
+            ],
+            "label": "label/117.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/475.nii.gz",
+                "t2/data/475.nii.gz"
+            ],
+            "label": "label/475.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/511.nii.gz",
+                "t2/data/511.nii.gz"
+            ],
+            "label": "label/511.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/251.nii.gz",
+                "t2/data/251.nii.gz"
+            ],
+            "label": "label/251.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/91.nii.gz",
+                "t2/data/91.nii.gz"
+            ],
+            "label": "label/91.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/659.nii.gz",
+                "t2/data/659.nii.gz"
+            ],
+            "label": "label/659.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/60.nii.gz",
+                "t2/data/60.nii.gz"
+            ],
+            "label": "label/60.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/498.nii.gz",
+                "t2/data/498.nii.gz"
+            ],
+            "label": "label/498.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/206.nii.gz",
+                "t2/data/206.nii.gz"
+            ],
+            "label": "label/206.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/13.nii.gz",
+                "t2/data/13.nii.gz"
+            ],
+            "label": "label/13.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/195.nii.gz",
+                "t2/data/195.nii.gz"
+            ],
+            "label": "label/195.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/666.nii.gz",
+                "t2/data/666.nii.gz"
+            ],
+            "label": "label/666.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/294.nii.gz",
+                "t2/data/294.nii.gz"
+            ],
+            "label": "label/294.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/712.nii.gz",
+                "t2/data/712.nii.gz"
+            ],
+            "label": "label/712.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/743.nii.gz",
+                "t2/data/743.nii.gz"
+            ],
+            "label": "label/743.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/55.nii.gz",
+                "t2/data/55.nii.gz"
+            ],
+            "label": "label/55.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/698.nii.gz",
+                "t2/data/698.nii.gz"
+            ],
+            "label": "label/698.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/149.nii.gz",
+                "t2/data/149.nii.gz"
+            ],
+            "label": "label/149.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/724.nii.gz",
+                "t2/data/724.nii.gz"
+            ],
+            "label": "label/724.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/32.nii.gz",
+                "t2/data/32.nii.gz"
+            ],
+            "label": "label/32.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/209.nii.gz",
+                "t2/data/209.nii.gz"
+            ],
+            "label": "label/209.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/544.nii.gz",
+                "t2/data/544.nii.gz"
+            ],
+            "label": "label/544.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/638.nii.gz",
+                "t2/data/638.nii.gz"
+            ],
+            "label": "label/638.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/610.nii.gz",
+                "t2/data/610.nii.gz"
+            ],
+            "label": "label/610.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/524.nii.gz",
+                "t2/data/524.nii.gz"
+            ],
+            "label": "label/524.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/179.nii.gz",
+                "t2/data/179.nii.gz"
+            ],
+            "label": "label/179.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/615.nii.gz",
+                "t2/data/615.nii.gz"
+            ],
+            "label": "label/615.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/461.nii.gz",
+                "t2/data/461.nii.gz"
+            ],
+            "label": "label/461.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/54.nii.gz",
+                "t2/data/54.nii.gz"
+            ],
+            "label": "label/54.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/360.nii.gz",
+                "t2/data/360.nii.gz"
+            ],
+            "label": "label/360.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/614.nii.gz",
+                "t2/data/614.nii.gz"
+            ],
+            "label": "label/614.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/115.nii.gz",
+                "t2/data/115.nii.gz"
+            ],
+            "label": "label/115.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/401.nii.gz",
+                "t2/data/401.nii.gz"
+            ],
+            "label": "label/401.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/31.nii.gz",
+                "t2/data/31.nii.gz"
+            ],
+            "label": "label/31.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/353.nii.gz",
+                "t2/data/353.nii.gz"
+            ],
+            "label": "label/353.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/394.nii.gz",
+                "t2/data/394.nii.gz"
+            ],
+            "label": "label/394.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/562.nii.gz",
+                "t2/data/562.nii.gz"
+            ],
+            "label": "label/562.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/116.nii.gz",
+                "t2/data/116.nii.gz"
+            ],
+            "label": "label/116.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/276.nii.gz",
+                "t2/data/276.nii.gz"
+            ],
+            "label": "label/276.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/341.nii.gz",
+                "t2/data/341.nii.gz"
+            ],
+            "label": "label/341.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/573.nii.gz",
+                "t2/data/573.nii.gz"
+            ],
+            "label": "label/573.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/518.nii.gz",
+                "t2/data/518.nii.gz"
+            ],
+            "label": "label/518.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/102.nii.gz",
+                "t2/data/102.nii.gz"
+            ],
+            "label": "label/102.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/676.nii.gz",
+                "t2/data/676.nii.gz"
+            ],
+            "label": "label/676.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/201.nii.gz",
+                "t2/data/201.nii.gz"
+            ],
+            "label": "label/201.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/129.nii.gz",
+                "t2/data/129.nii.gz"
+            ],
+            "label": "label/129.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/35.nii.gz",
+                "t2/data/35.nii.gz"
+            ],
+            "label": "label/35.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/274.nii.gz",
+                "t2/data/274.nii.gz"
+            ],
+            "label": "label/274.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/604.nii.gz",
+                "t2/data/604.nii.gz"
+            ],
+            "label": "label/604.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/37.nii.gz",
+                "t2/data/37.nii.gz"
+            ],
+            "label": "label/37.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/429.nii.gz",
+                "t2/data/429.nii.gz"
+            ],
+            "label": "label/429.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/542.nii.gz",
+                "t2/data/542.nii.gz"
+            ],
+            "label": "label/542.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/403.nii.gz",
+                "t2/data/403.nii.gz"
+            ],
+            "label": "label/403.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/510.nii.gz",
+                "t2/data/510.nii.gz"
+            ],
+            "label": "label/510.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/413.nii.gz",
+                "t2/data/413.nii.gz"
+            ],
+            "label": "label/413.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/776.nii.gz",
+                "t2/data/776.nii.gz"
+            ],
+            "label": "label/776.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/254.nii.gz",
+                "t2/data/254.nii.gz"
+            ],
+            "label": "label/254.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/745.nii.gz",
+                "t2/data/745.nii.gz"
+            ],
+            "label": "label/745.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/505.nii.gz",
+                "t2/data/505.nii.gz"
+            ],
+            "label": "label/505.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/333.nii.gz",
+                "t2/data/333.nii.gz"
+            ],
+            "label": "label/333.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/293.nii.gz",
+                "t2/data/293.nii.gz"
+            ],
+            "label": "label/293.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/371.nii.gz",
+                "t2/data/371.nii.gz"
+            ],
+            "label": "label/371.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/443.nii.gz",
+                "t2/data/443.nii.gz"
+            ],
+            "label": "label/443.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/393.nii.gz",
+                "t2/data/393.nii.gz"
+            ],
+            "label": "label/393.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/196.nii.gz",
+                "t2/data/196.nii.gz"
+            ],
+            "label": "label/196.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/529.nii.gz",
+                "t2/data/529.nii.gz"
+            ],
+            "label": "label/529.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/695.nii.gz",
+                "t2/data/695.nii.gz"
+            ],
+            "label": "label/695.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/619.nii.gz",
+                "t2/data/619.nii.gz"
+            ],
+            "label": "label/619.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/755.nii.gz",
+                "t2/data/755.nii.gz"
+            ],
+            "label": "label/755.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/485.nii.gz",
+                "t2/data/485.nii.gz"
+            ],
+            "label": "label/485.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/778.nii.gz",
+                "t2/data/778.nii.gz"
+            ],
+            "label": "label/778.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/496.nii.gz",
+                "t2/data/496.nii.gz"
+            ],
+            "label": "label/496.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/682.nii.gz",
+                "t2/data/682.nii.gz"
+            ],
+            "label": "label/682.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/561.nii.gz",
+                "t2/data/561.nii.gz"
+            ],
+            "label": "label/561.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/494.nii.gz",
+                "t2/data/494.nii.gz"
+            ],
+            "label": "label/494.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/242.nii.gz",
+                "t2/data/242.nii.gz"
+            ],
+            "label": "label/242.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/402.nii.gz",
+                "t2/data/402.nii.gz"
+            ],
+            "label": "label/402.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/609.nii.gz",
+                "t2/data/609.nii.gz"
+            ],
+            "label": "label/609.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/426.nii.gz",
+                "t2/data/426.nii.gz"
+            ],
+            "label": "label/426.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/72.nii.gz",
+                "t2/data/72.nii.gz"
+            ],
+            "label": "label/72.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/316.nii.gz",
+                "t2/data/316.nii.gz"
+            ],
+            "label": "label/316.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/109.nii.gz",
+                "t2/data/109.nii.gz"
+            ],
+            "label": "label/109.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/259.nii.gz",
+                "t2/data/259.nii.gz"
+            ],
+            "label": "label/259.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/454.nii.gz",
+                "t2/data/454.nii.gz"
+            ],
+            "label": "label/454.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/439.nii.gz",
+                "t2/data/439.nii.gz"
+            ],
+            "label": "label/439.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/375.nii.gz",
+                "t2/data/375.nii.gz"
+            ],
+            "label": "label/375.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/369.nii.gz",
+                "t2/data/369.nii.gz"
+            ],
+            "label": "label/369.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/517.nii.gz",
+                "t2/data/517.nii.gz"
+            ],
+            "label": "label/517.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/431.nii.gz",
+                "t2/data/431.nii.gz"
+            ],
+            "label": "label/431.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/218.nii.gz",
+                "t2/data/218.nii.gz"
+            ],
+            "label": "label/218.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/68.nii.gz",
+                "t2/data/68.nii.gz"
+            ],
+            "label": "label/68.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/88.nii.gz",
+                "t2/data/88.nii.gz"
+            ],
+            "label": "label/88.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/267.nii.gz",
+                "t2/data/267.nii.gz"
+            ],
+            "label": "label/267.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/559.nii.gz",
+                "t2/data/559.nii.gz"
+            ],
+            "label": "label/559.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/624.nii.gz",
+                "t2/data/624.nii.gz"
+            ],
+            "label": "label/624.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/18.nii.gz",
+                "t2/data/18.nii.gz"
+            ],
+            "label": "label/18.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/81.nii.gz",
+                "t2/data/81.nii.gz"
+            ],
+            "label": "label/81.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/547.nii.gz",
+                "t2/data/547.nii.gz"
+            ],
+            "label": "label/547.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/278.nii.gz",
+                "t2/data/278.nii.gz"
+            ],
+            "label": "label/278.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/692.nii.gz",
+                "t2/data/692.nii.gz"
+            ],
+            "label": "label/692.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/141.nii.gz",
+                "t2/data/141.nii.gz"
+            ],
+            "label": "label/141.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/754.nii.gz",
+                "t2/data/754.nii.gz"
+            ],
+            "label": "label/754.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/631.nii.gz",
+                "t2/data/631.nii.gz"
+            ],
+            "label": "label/631.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/534.nii.gz",
+                "t2/data/534.nii.gz"
+            ],
+            "label": "label/534.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/452.nii.gz",
+                "t2/data/452.nii.gz"
+            ],
+            "label": "label/452.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/246.nii.gz",
+                "t2/data/246.nii.gz"
+            ],
+            "label": "label/246.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/343.nii.gz",
+                "t2/data/343.nii.gz"
+            ],
+            "label": "label/343.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/160.nii.gz",
+                "t2/data/160.nii.gz"
+            ],
+            "label": "label/160.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/663.nii.gz",
+                "t2/data/663.nii.gz"
+            ],
+            "label": "label/663.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/473.nii.gz",
+                "t2/data/473.nii.gz"
+            ],
+            "label": "label/473.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/365.nii.gz",
+                "t2/data/365.nii.gz"
+            ],
+            "label": "label/365.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/597.nii.gz",
+                "t2/data/597.nii.gz"
+            ],
+            "label": "label/597.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/525.nii.gz",
+                "t2/data/525.nii.gz"
+            ],
+            "label": "label/525.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/174.nii.gz",
+                "t2/data/174.nii.gz"
+            ],
+            "label": "label/174.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/227.nii.gz",
+                "t2/data/227.nii.gz"
+            ],
+            "label": "label/227.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/417.nii.gz",
+                "t2/data/417.nii.gz"
+            ],
+            "label": "label/417.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/204.nii.gz",
+                "t2/data/204.nii.gz"
+            ],
+            "label": "label/204.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/180.nii.gz",
+                "t2/data/180.nii.gz"
+            ],
+            "label": "label/180.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/558.nii.gz",
+                "t2/data/558.nii.gz"
+            ],
+            "label": "label/558.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/643.nii.gz",
+                "t2/data/643.nii.gz"
+            ],
+            "label": "label/643.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/506.nii.gz",
+                "t2/data/506.nii.gz"
+            ],
+            "label": "label/506.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/596.nii.gz",
+                "t2/data/596.nii.gz"
+            ],
+            "label": "label/596.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/11.nii.gz",
+                "t2/data/11.nii.gz"
+            ],
+            "label": "label/11.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/660.nii.gz",
+                "t2/data/660.nii.gz"
+            ],
+            "label": "label/660.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/273.nii.gz",
+                "t2/data/273.nii.gz"
+            ],
+            "label": "label/273.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/463.nii.gz",
+                "t2/data/463.nii.gz"
+            ],
+            "label": "label/463.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/769.nii.gz",
+                "t2/data/769.nii.gz"
+            ],
+            "label": "label/769.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/665.nii.gz",
+                "t2/data/665.nii.gz"
+            ],
+            "label": "label/665.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/1.nii.gz",
+                "t2/data/1.nii.gz"
+            ],
+            "label": "label/1.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/265.nii.gz",
+                "t2/data/265.nii.gz"
+            ],
+            "label": "label/265.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/601.nii.gz",
+                "t2/data/601.nii.gz"
+            ],
+            "label": "label/601.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/310.nii.gz",
+                "t2/data/310.nii.gz"
+            ],
+            "label": "label/310.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/84.nii.gz",
+                "t2/data/84.nii.gz"
+            ],
+            "label": "label/84.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/281.nii.gz",
+                "t2/data/281.nii.gz"
+            ],
+            "label": "label/281.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/349.nii.gz",
+                "t2/data/349.nii.gz"
+            ],
+            "label": "label/349.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/342.nii.gz",
+                "t2/data/342.nii.gz"
+            ],
+            "label": "label/342.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/731.nii.gz",
+                "t2/data/731.nii.gz"
+            ],
+            "label": "label/731.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/137.nii.gz",
+                "t2/data/137.nii.gz"
+            ],
+            "label": "label/137.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/321.nii.gz",
+                "t2/data/321.nii.gz"
+            ],
+            "label": "label/321.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/83.nii.gz",
+                "t2/data/83.nii.gz"
+            ],
+            "label": "label/83.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/603.nii.gz",
+                "t2/data/603.nii.gz"
+            ],
+            "label": "label/603.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/648.nii.gz",
+                "t2/data/648.nii.gz"
+            ],
+            "label": "label/648.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/75.nii.gz",
+                "t2/data/75.nii.gz"
+            ],
+            "label": "label/75.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/768.nii.gz",
+                "t2/data/768.nii.gz"
+            ],
+            "label": "label/768.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/477.nii.gz",
+                "t2/data/477.nii.gz"
+            ],
+            "label": "label/477.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/539.nii.gz",
+                "t2/data/539.nii.gz"
+            ],
+            "label": "label/539.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/678.nii.gz",
+                "t2/data/678.nii.gz"
+            ],
+            "label": "label/678.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/50.nii.gz",
+                "t2/data/50.nii.gz"
+            ],
+            "label": "label/50.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/522.nii.gz",
+                "t2/data/522.nii.gz"
+            ],
+            "label": "label/522.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/300.nii.gz",
+                "t2/data/300.nii.gz"
+            ],
+            "label": "label/300.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/241.nii.gz",
+                "t2/data/241.nii.gz"
+            ],
+            "label": "label/241.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/7.nii.gz",
+                "t2/data/7.nii.gz"
+            ],
+            "label": "label/7.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/737.nii.gz",
+                "t2/data/737.nii.gz"
+            ],
+            "label": "label/737.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/28.nii.gz",
+                "t2/data/28.nii.gz"
+            ],
+            "label": "label/28.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/76.nii.gz",
+                "t2/data/76.nii.gz"
+            ],
+            "label": "label/76.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/763.nii.gz",
+                "t2/data/763.nii.gz"
+            ],
+            "label": "label/763.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/679.nii.gz",
+                "t2/data/679.nii.gz"
+            ],
+            "label": "label/679.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/49.nii.gz",
+                "t2/data/49.nii.gz"
+            ],
+            "label": "label/49.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/740.nii.gz",
+                "t2/data/740.nii.gz"
+            ],
+            "label": "label/740.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/489.nii.gz",
+                "t2/data/489.nii.gz"
+            ],
+            "label": "label/489.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/106.nii.gz",
+                "t2/data/106.nii.gz"
+            ],
+            "label": "label/106.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/384.nii.gz",
+                "t2/data/384.nii.gz"
+            ],
+            "label": "label/384.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/521.nii.gz",
+                "t2/data/521.nii.gz"
+            ],
+            "label": "label/521.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/793.nii.gz",
+                "t2/data/793.nii.gz"
+            ],
+            "label": "label/793.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/595.nii.gz",
+                "t2/data/595.nii.gz"
+            ],
+            "label": "label/595.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/781.nii.gz",
+                "t2/data/781.nii.gz"
+            ],
+            "label": "label/781.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/101.nii.gz",
+                "t2/data/101.nii.gz"
+            ],
+            "label": "label/101.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/169.nii.gz",
+                "t2/data/169.nii.gz"
+            ],
+            "label": "label/169.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/275.nii.gz",
+                "t2/data/275.nii.gz"
+            ],
+            "label": "label/275.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/138.nii.gz",
+                "t2/data/138.nii.gz"
+            ],
+            "label": "label/138.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/130.nii.gz",
+                "t2/data/130.nii.gz"
+            ],
+            "label": "label/130.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/702.nii.gz",
+                "t2/data/702.nii.gz"
+            ],
+            "label": "label/702.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/459.nii.gz",
+                "t2/data/459.nii.gz"
+            ],
+            "label": "label/459.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/575.nii.gz",
+                "t2/data/575.nii.gz"
+            ],
+            "label": "label/575.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/719.nii.gz",
+                "t2/data/719.nii.gz"
+            ],
+            "label": "label/719.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/345.nii.gz",
+                "t2/data/345.nii.gz"
+            ],
+            "label": "label/345.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/527.nii.gz",
+                "t2/data/527.nii.gz"
+            ],
+            "label": "label/527.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/523.nii.gz",
+                "t2/data/523.nii.gz"
+            ],
+            "label": "label/523.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/288.nii.gz",
+                "t2/data/288.nii.gz"
+            ],
+            "label": "label/288.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/133.nii.gz",
+                "t2/data/133.nii.gz"
+            ],
+            "label": "label/133.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/374.nii.gz",
+                "t2/data/374.nii.gz"
+            ],
+            "label": "label/374.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/746.nii.gz",
+                "t2/data/746.nii.gz"
+            ],
+            "label": "label/746.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/322.nii.gz",
+                "t2/data/322.nii.gz"
+            ],
+            "label": "label/322.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/681.nii.gz",
+                "t2/data/681.nii.gz"
+            ],
+            "label": "label/681.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/447.nii.gz",
+                "t2/data/447.nii.gz"
+            ],
+            "label": "label/447.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/680.nii.gz",
+                "t2/data/680.nii.gz"
+            ],
+            "label": "label/680.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/93.nii.gz",
+                "t2/data/93.nii.gz"
+            ],
+            "label": "label/93.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/248.nii.gz",
+                "t2/data/248.nii.gz"
+            ],
+            "label": "label/248.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/329.nii.gz",
+                "t2/data/329.nii.gz"
+            ],
+            "label": "label/329.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/370.nii.gz",
+                "t2/data/370.nii.gz"
+            ],
+            "label": "label/370.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/19.nii.gz",
+                "t2/data/19.nii.gz"
+            ],
+            "label": "label/19.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/38.nii.gz",
+                "t2/data/38.nii.gz"
+            ],
+            "label": "label/38.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/526.nii.gz",
+                "t2/data/526.nii.gz"
+            ],
+            "label": "label/526.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/22.nii.gz",
+                "t2/data/22.nii.gz"
+            ],
+            "label": "label/22.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/704.nii.gz",
+                "t2/data/704.nii.gz"
+            ],
+            "label": "label/704.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/572.nii.gz",
+                "t2/data/572.nii.gz"
+            ],
+            "label": "label/572.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/578.nii.gz",
+                "t2/data/578.nii.gz"
+            ],
+            "label": "label/578.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/460.nii.gz",
+                "t2/data/460.nii.gz"
+            ],
+            "label": "label/460.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/762.nii.gz",
+                "t2/data/762.nii.gz"
+            ],
+            "label": "label/762.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/598.nii.gz",
+                "t2/data/598.nii.gz"
+            ],
+            "label": "label/598.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/446.nii.gz",
+                "t2/data/446.nii.gz"
+            ],
+            "label": "label/446.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/471.nii.gz",
+                "t2/data/471.nii.gz"
+            ],
+            "label": "label/471.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/590.nii.gz",
+                "t2/data/590.nii.gz"
+            ],
+            "label": "label/590.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/533.nii.gz",
+                "t2/data/533.nii.gz"
+            ],
+            "label": "label/533.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/92.nii.gz",
+                "t2/data/92.nii.gz"
+            ],
+            "label": "label/92.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/30.nii.gz",
+                "t2/data/30.nii.gz"
+            ],
+            "label": "label/30.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/734.nii.gz",
+                "t2/data/734.nii.gz"
+            ],
+            "label": "label/734.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/10.nii.gz",
+                "t2/data/10.nii.gz"
+            ],
+            "label": "label/10.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/652.nii.gz",
+                "t2/data/652.nii.gz"
+            ],
+            "label": "label/652.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/497.nii.gz",
+                "t2/data/497.nii.gz"
+            ],
+            "label": "label/497.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/383.nii.gz",
+                "t2/data/383.nii.gz"
+            ],
+            "label": "label/383.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/627.nii.gz",
+                "t2/data/627.nii.gz"
+            ],
+            "label": "label/627.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/437.nii.gz",
+                "t2/data/437.nii.gz"
+            ],
+            "label": "label/437.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/172.nii.gz",
+                "t2/data/172.nii.gz"
+            ],
+            "label": "label/172.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/285.nii.gz",
+                "t2/data/285.nii.gz"
+            ],
+            "label": "label/285.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/296.nii.gz",
+                "t2/data/296.nii.gz"
+            ],
+            "label": "label/296.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/279.nii.gz",
+                "t2/data/279.nii.gz"
+            ],
+            "label": "label/279.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/470.nii.gz",
+                "t2/data/470.nii.gz"
+            ],
+            "label": "label/470.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/82.nii.gz",
+                "t2/data/82.nii.gz"
+            ],
+            "label": "label/82.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/125.nii.gz",
+                "t2/data/125.nii.gz"
+            ],
+            "label": "label/125.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/535.nii.gz",
+                "t2/data/535.nii.gz"
+            ],
+            "label": "label/535.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/777.nii.gz",
+                "t2/data/777.nii.gz"
+            ],
+            "label": "label/777.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/766.nii.gz",
+                "t2/data/766.nii.gz"
+            ],
+            "label": "label/766.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/672.nii.gz",
+                "t2/data/672.nii.gz"
+            ],
+            "label": "label/672.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/89.nii.gz",
+                "t2/data/89.nii.gz"
+            ],
+            "label": "label/89.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/6.nii.gz",
+                "t2/data/6.nii.gz"
+            ],
+            "label": "label/6.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/564.nii.gz",
+                "t2/data/564.nii.gz"
+            ],
+            "label": "label/564.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/111.nii.gz",
+                "t2/data/111.nii.gz"
+            ],
+            "label": "label/111.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/152.nii.gz",
+                "t2/data/152.nii.gz"
+            ],
+            "label": "label/152.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/33.nii.gz",
+                "t2/data/33.nii.gz"
+            ],
+            "label": "label/33.nii.gz"
+        },
+        {
+            "fold": 2,
+            "image": [
+                "t1/data/347.nii.gz",
+                "t2/data/347.nii.gz"
+            ],
+            "label": "label/347.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/376.nii.gz",
+                "t2/data/376.nii.gz"
+            ],
+            "label": "label/376.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/709.nii.gz",
+                "t2/data/709.nii.gz"
+            ],
+            "label": "label/709.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/418.nii.gz",
+                "t2/data/418.nii.gz"
+            ],
+            "label": "label/418.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/404.nii.gz",
+                "t2/data/404.nii.gz"
+            ],
+            "label": "label/404.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/630.nii.gz",
+                "t2/data/630.nii.gz"
+            ],
+            "label": "label/630.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/283.nii.gz",
+                "t2/data/283.nii.gz"
+            ],
+            "label": "label/283.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/646.nii.gz",
+                "t2/data/646.nii.gz"
+            ],
+            "label": "label/646.nii.gz"
+        },
+        {
+            "fold": 0,
+            "image": [
+                "t1/data/305.nii.gz",
+                "t2/data/305.nii.gz"
+            ],
+            "label": "label/305.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/513.nii.gz",
+                "t2/data/513.nii.gz"
+            ],
+            "label": "label/513.nii.gz"
+        },
+        {
+            "fold": 1,
+            "image": [
+                "t1/data/61.nii.gz",
+                "t2/data/61.nii.gz"
+            ],
+            "label": "label/61.nii.gz"
+        },
+        {
+            "fold": 3,
+            "image": [
+                "t1/data/328.nii.gz",
+                "t2/data/328.nii.gz"
+            ],
+            "label": "label/328.nii.gz"
+        },
+        {
+            "fold": 4,
+            "image": [
+                "t1/data/114.nii.gz",
+                "t2/data/114.nii.gz"
+            ],
+            "label": "label/114.nii.gz"
+        }
+    ]
+}
