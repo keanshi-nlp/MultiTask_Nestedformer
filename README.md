@@ -1,8 +1,8 @@
-# NestedFormer
+# NestedFormer++
 
-NestedFormer (MICCAI2022) is a multimodal segmentation model on 3D medical images. The features of different modalities are fused through tri-oriented self-attention and cross-attention. We also improve the Poolfromer structure (CVPR2022) as an efficient encoder.
+This repo was codebase for Multi-Task Nestedformer (Nestedformer++). The structure supports multimodal inputs (MRI images) and segmentation & classification at the same time. Code will be completed soon.
 
-Read our paper https://arxiv.org/abs/2208.14876 on ArXiv for a formal introduction.
+![illustration](assets/illustration.jpg)
 
 ## Getting Started
 
@@ -27,6 +27,4 @@ The data processing code is in utils/data_utils.py. You can modify this code for
 
 
 ## Acknowledgment
-Our implementation is mainly based on the following codebases. We gratefully thank the authors for their wonderful works.
-
-pytorch, monai, [monai-research-contributions](https://github.com/Project-MONAI/research-contributions)
+Our implementation is mainly based on the [Nestedformer](https://github.com/920232796/NestedFormer) (MICCAI 2022)
