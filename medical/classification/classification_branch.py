@@ -1,4 +1,4 @@
-import sys 
+import sys
 sys.path.append("..")
 from model.encoder.global_poolformer import Encoder
 
@@ -15,7 +15,7 @@ class MLP(nn.module):
         out = self.fc2(out)
         return out
 
-class Classification(nn.Module):
+class Classifier(nn.Module):
     def __init__(self, image_size, fea, pool_size):
 
         super().__init__()
@@ -34,9 +34,11 @@ class Classification(nn.Module):
                        hidden_size=image_size * 2, 
                        output_size=image_size)
 
-    def forward(self, x):
+    def forward(self, x, adc):
 
-        encoder_x = self.encoder(x)
-        logits = self.mlp(encoder_x)
+        img = self.encoder(adc)
+        img = torch.cat((x, img), 0)
+        img = torch.flatten(img, 1)
+        out = self.mlp(img)
 
-        return logits
+        return out

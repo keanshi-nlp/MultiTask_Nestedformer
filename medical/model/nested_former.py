@@ -3,6 +3,10 @@ from .encoder.global_poolformer import Encoder, Convolution, TwoConv, UpCat
 from .fusion.nmafa import NMaFaLayer
 import torch
 from einops import rearrange
+import sys
+sys.path.append("..")
+from classification.classification_branch import Classifier
+
 
 class NestedFormer(nn.Module):
     def __init__(self, model_num,
@@ -41,6 +45,10 @@ class NestedFormer(nn.Module):
                                 window_size=window_size,
                                 token_mixer_size=token_mixer_size,
                                 token_learner=token_learner)
+        
+        self.classifier = Classifier(image_size=new_image_size,
+                                     fea=fea,
+                                     pool_size=pool_size)
 
         self.fusion_conv_5 = TwoConv(model_num*fea[4], fea[4], 3, 1, 1)
         self.fusion_conv_1 = TwoConv(model_num*fea[0], fea[0], 3, 1, 1)
@@ -55,9 +63,8 @@ class NestedFormer(nn.Module):
 
         self.final_conv = nn.Conv3d(fea[5], out_channels, 1, 1)
 
-    def forward(self, x):
+    def forward(self, x, adc):
 
-        # print(x.shape[1], self.model_num)
         assert x.shape[1] == self.model_num
 
         encoder_x = self.encoder(x)
@@ -69,6 +76,8 @@ class NestedFormer(nn.Module):
         encoder_5 = torch.stack([encoder_x[i][0] for i in range(self.model_num)], dim=1)
 
         fusion_out = self.fusion(encoder_5)
+        cls = self.classifier(fusion_out, adc)
+        
         encoder_5 = rearrange(encoder_5, "b n c d w h -> b (n c) d w h")
         fusion_out_cnn = self.fusion_conv_5(encoder_5)
         fusion_out = fusion_out + fusion_out_cnn
@@ -90,4 +99,4 @@ class NestedFormer(nn.Module):
 
         logits = self.final_conv(u1)
 
-        return logits
+        return cls, logits
