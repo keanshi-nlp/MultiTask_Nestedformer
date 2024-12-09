@@ -122,11 +122,7 @@ def get_images(t1_path, t2_path, output_dir):
         name = os.path.splitext(os.path.splitext(t1)[0])[0].split('/')[-1]
 
         print(f'{name} has been added!')
-
         gen_result(img, name, output_dir)
-
-        
-
 
 if __name__ == '__main__':
 
