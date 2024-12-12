@@ -2,16 +2,17 @@ import os
 import random
 import json
 
-cla_list = ["Grade_1", "Grade_2_noninvasion","Grade_2_invasion"]
+cla_list = ["Grade_1", "Grade_2_noninvasion", "Grade_2_invasion"]
 
 def generate_data_json(label_dir, output_json, num_folds=5):
 
     num = 1
     data = { "training": [] }
     for cla in cla_list:
-        patients = os.listdir(cla)
+        cla_dir = os.path.join(label_dir, cla)
+        patients = os.listdir(cla_dir)
         for pat in patients:
-            pat_path = os.path.join(cla, pat)
+            pat_path = os.path.join(cla_dir, pat)
             images = []
             label = os.path.join(pat_path, "label_concat.nii.gz")
             images.append(os.path.join(pat_path,f't1.nii.gz'))
@@ -41,6 +42,6 @@ def generate_data_json(label_dir, output_json, num_folds=5):
 
 
 # Usage
-root_directory = r"F:\dachuang\used796_bbox_n4bias\BUS"  # Set this to your root directory path
+root_directory = "/mnt/BUS"  # Set this to your root directory path
 output_file = "brain_tumor_mri.json"
 generate_data_json(root_directory, output_file)

@@ -1,8 +1,7 @@
-import sys
-sys.path.append("..")
-from model.encoder.global_poolformer import Encoder
+from ..model.encoder.global_poolformer import Encoder
+import torch.nn as nn
 
-class MLP(nn.module):
+class MLP(nn.Module):
     def __init__(self, input_size, hidden_size, output_size):
         super(MLP, self).__init__()
         self.fc1 = nn.Linear(input_size, hidden_size)
@@ -20,6 +19,7 @@ class Classifier(nn.Module):
 
         super().__init__()
         self.pool_size = pool_size
+        pool_size_all = [1, 1, 1]
         image_size_s = [image_size]
 
         for p in pool_size:

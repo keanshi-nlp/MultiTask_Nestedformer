@@ -205,6 +205,7 @@ if __name__ == '__main__':
 
 
 '''
+python main.py --logdir=log_train_nestedformer --fold=0 --json_list=./brain_tumor_mri.json --lrschedule=warmup_cosine --data_dir=/mnt/BUS --out_channels=3 --batch_size=4 --infer_overlap=0.5
 python main.py --checkpoint=./runs/log_brain_tumor/model.pt --logdir=log_brain_tumor --fold=0 --json_list=./test.json --max_epochs=1 --lrschedule=warmup_cosine --val_every=1 --data_dir=/mnt/brain_tumor --out_channels=3 --batch_size=1 --infer_overlap=0.5
 python main.py --logdir=log_train_nestedformer --fold=0 --json_list=./brain_tumor_mri.json --max_epochs=200 --lrschedule=warmup_cosine --data_dir=/mnt/brain_tumor --out_channels=3 --batch_size=4 --infer_overlap=0.5
 python main.py --logdir=log_brain_tmuor --fold=0 --json_list=./test.json --max_epochs=10 --lrschedule=warmup_cosine --data_dir=/mnt/brain_tumor --out_channels=3 --batch_size=1 --infer_overlap=0.5

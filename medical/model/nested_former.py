@@ -3,9 +3,9 @@ from .encoder.global_poolformer import Encoder, Convolution, TwoConv, UpCat
 from .fusion.nmafa import NMaFaLayer
 import torch
 from einops import rearrange
-import sys
-sys.path.append("..")
-from classification.classification_branch import Classifier
+# import sys
+# sys.path.append("..")
+from ..classification.classification_branch import Classifier
 
 
 class NestedFormer(nn.Module):
